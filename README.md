@@ -72,10 +72,10 @@ print(df.head())
 | athletics.yoga    | premium   | $104      | $31.20        | 69             | 52     | 9      | namecheap        |
 | clear.yoga        | available | $42.98    | —             | 90             | 49     | 5      | namecheap        |
 | woo.yoga          | resell    | —         | —             | 67             | 82     | 3      | GoDaddy.com, LLC |
-| design.yoga       | premium   | $250      | $45.99        | 108            | 50     | 6      | name.com         |
+| digital.yoga      | premium   | $1,000    | $45.99        | 100            | 50     | 7      | name.com         |
 | trade.yoga        | available | $42.98    | —             | 116            | 46     | 5      | namecheap        |
 | temple.yoga       | resell    | —         | —             | 66             | 82     | 6      | GoDaddy.com, LLC |
-| digital.yoga      | premium   | $1,000    | $45.99        | 100            | 50     | 7      | name.com         |
+| design.yoga       | premium   | $250      | $45.99        | 108            | 49     | 6      | name.com         |
 | snap.yoga         | available | $42.98    | —             | 90             | 46     | 4      | namecheap        |
 | universal.yoga    | resell    | —         | —             | 96             | 81     | 9      | Spaceship, Inc.  |
 | security.yoga     | premium   | $104      | $31.20        | 70             | 49     | 8      | namecheap        |
