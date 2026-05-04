@@ -1,10 +1,10 @@
-# Available .YOGA One-Word Domains (11,779)
+# Available .YOGA One-Word Domains (12,151)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C779%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C151%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .yoga one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,779 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,151 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,779 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,151 domains · **Median ask:** $53.79 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-04  
 **Canonical page:** `https://unique.domains/domains/tld/yoga`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| travelers.yoga     | available | $32.49    | $32.49        | 58             | 61     | 9      | namesilo         |
+| Trex.yoga          | available | $45.98    | —             | 80             | 24     | 5      | namecheap        |
+| jewels.yoga        | available | $45.98    | —             | 80             | 15     | 6      | namecheap        |
+| forces.yoga        | available | $45.98    | —             | 82             | 12     | 6      | namecheap        |
+| playon.yoga        | available | $45.98    | —             | 80             | 14     | 7      | namecheap        |
+| hangon.yoga        | available | $32.49    | $32.49        | 82             | 6      | 7      | namesilo         |
+| makeit.yoga        | available | $45.98    | —             | 82             | 22     | 7      | namecheap        |
+| stirup.yoga        | available | $45.98    | —             | 82             | 3      | 7      | namecheap        |
+| regions.yoga       | available | $45.98    | —             | 64             | 59     | 7      | namecheap        |
 | etc.yoga           | resell    | —         | —             | 58             | 34     | 3      | GoDaddy.com, LLC |
 | donuts.yoga        | premium   | $50       | —             | 54             | 62     | 6      | name.com         |
-| regions.yoga       | available | $45.98    | —             | 64             | 59     | 7      | namecheap        |
+| keepthechange.yoga | available | $45.98    | —             | 46             | 59     | 15     | namecheap        |
 | systems.yoga       | resell    | —         | —             | 46             | 27     | 7      | GoDaddy.com, LLC |
 | SanDiego.yoga      | premium   | $854      | $29.50        | 74             | 29     | 9      | namesilo         |
-| keepthechange.yoga | available | $45.98    | —             | 46             | 59     | 15     | namecheap        |
-| ladies.yoga        | resell    | —         | —             | 80             | 17     | 6      | GoDaddy.com, LLC |
-| flights.yoga       | premium   | $96       | $29.50        | 61             | 22     | 7      | namesilo         |
 | shortcuts.yoga     | available | $45.98    | —             | 48             | 41     | 10     | namecheap        |
 | indoor.yoga        | resell    | —         | —             | 72             | 15     | 6      | GoDaddy.com, LLC |
-| templates.yoga     | premium   | $50       | —             | 54             | 17     | 9      | name.com         |
+| flights.yoga       | premium   | $96       | $29.50        | 61             | 22     | 7      | namesilo         |
 | stories.yoga       | available | $45.98    | —             | 58             | 36     | 7      | namecheap        |
 | beaches.yoga       | resell    | —         | —             | 72             | 14     | 7      | GoDaddy.com, LLC |
-| plz.yoga           | premium   | $2,500    | —             | 72             | 14     | 3      | name.com         |
+| templates.yoga     | premium   | $50       | —             | 54             | 17     | 9      | name.com         |
 | aliens.yoga        | available | $32.49    | $32.49        | 56             | 35     | 6      | namesilo         |
-| studies.yoga       | resell    | —         | —             | 72             | 13     | 7      | GoDaddy.com, LLC |
-| destinations.yoga  | premium   | $96       | $29.50        | 72             | 14     | 12     | namesilo         |
-| maps.yoga          | available | $45.98    | —             | 56             | 31     | 4      | namecheap        |
-| positions.yoga     | resell    | —         | —             | 48             | 7      | 9      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,779 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,151 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+These domains are all one-word names on the .yoga extension. The set includes direct words, broad dictionary terms, and more open-ended brandable options such as tips.yoga, matcha.yoga, and jewels.yoga. With a median ask of 53.79, the pricing center is relatively accessible, but name quality can vary widely. When comparing these domains, focus first on word clarity, relevance to yoga, and how naturally the word pairs with the .yoga ending. Then check whether the term feels memorable, commercially usable, and free of obvious trademark friction. Strong choices are simple to say, easy to recall, and clearly ownable for a yoga-related brand or project.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prefer words that pair naturally with the .yoga ending
+- Use median ask 53.79 as a rough pricing reference
+- Generic words usually age better than narrow references
+- Check for obvious trademark and brand-confusion risk
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .YOGA One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .YOGA One-Word Domains*. Version 2026-05-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
