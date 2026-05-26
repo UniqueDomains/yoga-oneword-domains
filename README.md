@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .yoga one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,155 domains · **Median ask:** $53.79 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/yoga`  
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,7 @@ print(df.head())
 | forces.yoga        | available | $45.98    | —             | 82             | 12     | 6      | namecheap        |
 | playon.yoga        | available | $45.98    | —             | 80             | 14     | 7      | namecheap        |
 | hangon.yoga        | available | $32.49    | $32.49        | 82             | 6      | 7      | namesilo         |
-| makeit.yoga        | available | $45.98    | —             | 82             | 22     | 7      | namecheap        |
+| makeit.yoga        | available | $45.98    | —             | 82             | 21     | 7      | namecheap        |
 | stirup.yoga        | available | $45.98    | —             | 82             | 3      | 7      | namecheap        |
 | regions.yoga       | available | $45.98    | —             | 64             | 59     | 7      | namecheap        |
 | etc.yoga           | resell    | —         | —             | 58             | 34     | 3      | GoDaddy.com, LLC |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .YOGA One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .YOGA One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
