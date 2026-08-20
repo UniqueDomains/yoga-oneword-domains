@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .yoga one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,030 domains · **Median ask:** $46.68 · **High-demand under $2,500:** 10
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/yoga`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,10 @@ print(df.head())
 
 | domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| great.yoga | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                                         |
+| damn.yoga  | available | $32.49    | $32.49        | high           | low    | 4      | namesilo                                                |
+| come.yoga  | available | $42.98    | —             | high           | low    | 4      | namecheap                                               |
+| time.yoga  | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                                        |
 | able.yoga  | available | $32.49    | $32.49        | high           | low    | 4      | namesilo                                                |
 | joint.yoga | resell    | $32.49    | $32.49        | high           | low    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | ant.yoga   | premium   | $500      | —             | high           | medium | 3      | name.com                                                |
@@ -80,10 +84,6 @@ print(df.head())
 | dvd.yoga   | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                        |
 | dig.yoga   | premium   | $500      | —             | high           | low    | 3      | name.com                                                |
 | asat.yoga  | available | $32.49    | $32.49        | low            | low    | 4      | namesilo                                                |
-| jan.yoga   | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                        |
-| dna.yoga   | premium   | $500      | —             | high           | medium | 3      | name.com                                                |
-| bell.yoga  | available | $32.49    | $32.49        | high           | low    | 4      | namesilo                                                |
-| leg.yoga   | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .YOGA One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .YOGA One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
