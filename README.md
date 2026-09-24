@@ -1,10 +1,10 @@
-# Available .YOGA One-Word Domains (31,813)
+# Available .YOGA One-Word Domains (32,709)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C813%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C709%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .yoga one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,813 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,709 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,813 domains · **Median ask:** $41.61 · **High-demand under $2,500:** 10
+**Public extract:** 1,000 rows · **Live catalog:** 32,709 domains · **Median ask:** $41.46 · **High-demand under $2,500:** 9
 
 **Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/yoga`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| time.yoga  | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                                        |
-| able.yoga  | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo                                                |
-| joint.yoga | resell    | $32.49    | $32.49        | medium         | low    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| ant.yoga   | premium   | $500      | —             | high           | medium | 3      | name.com                                                |
-| aged.yoga  | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo                                                |
-| air.yoga   | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC                                        |
-| ate.yoga   | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo                                                |
-| ages.yoga  | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo                                                |
-| ass.yoga   | resell    | —         | —             | low            | low    | 3      | GoDaddy.com, LLC                                        |
-| cxv.yoga   | premium   | $47.20    | $29.50        | low            | low    | 3      | namesilo                                                |
-| airy.yoga  | available | $32.49    | $32.49        | low            | low    | 4      | namesilo                                                |
-| beg.yoga   | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC                                        |
-| day.yoga   | premium   | $500      | —             | high           | low    | 3      | name.com                                                |
-| arab.yoga  | available | $32.49    | $32.49        | low            | low    | 4      | namesilo                                                |
-| diy.yoga   | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                        |
-| dig.yoga   | premium   | $500      | —             | high           | low    | 3      | name.com                                                |
-| asat.yoga  | available | $32.49    | $32.49        | low            | low    | 4      | namesilo                                                |
-| dvd.yoga   | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                        |
-| dna.yoga   | premium   | $500      | —             | high           | medium | 3      | name.com                                                |
-| bell.yoga  | available | $32.49    | $32.49        | high           | low    | 4      | namesilo                                                |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| time.yoga | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
+| ages.yoga | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo         |
+| ass.yoga  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| ant.yoga  | premium   | $500      | —             | high           | medium | 3      | name.com         |
+| agog.yoga | available | $33.98    | $45.98        | high           | low    | 4      | namecheap        |
+| beg.yoga  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| ate.yoga  | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
+| airy.yoga | available | $32.49    | $32.49        | high           | low    | 4      | namesilo         |
+| diy.yoga  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| cxv.yoga  | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
+| arab.yoga | available | $32.49    | $32.49        | high           | low    | 4      | namesilo         |
+| dvd.yoga  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| day.yoga  | premium   | $500      | —             | high           | low    | 3      | name.com         |
+| asat.yoga | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo         |
+| fog.yoga  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| dig.yoga  | premium   | $500      | —             | high           | low    | 3      | name.com         |
+| ashy.yoga | available | $32.49    | $32.49        | high           | low    | 4      | namesilo         |
+| jan.yoga  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| dip.yoga  | premium   | $50       | $45.99        | high           | low    | 3      | name.com         |
+| bats.yoga | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,813 live domains                        |
+| 1,000-row public sample | 32,709 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 10 high-demand names under $2,500          |
+| Basic exported fields   | 9 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
