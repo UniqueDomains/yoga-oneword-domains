@@ -1,18 +1,21 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 24794530-6a68-4a2e-9309-69f345e9556a,tippy.yoga,available,32.49,32.49,high,low,5,namesilo,,,13/08/2026 04:55
-1635cb1b-e49b-46eb-b9f3-e361638fd3d1,absurdity.yoga,available,32.49,32.49,medium,low,9,namesilo,,,16/09/2026 18:39
+1635cb1b-e49b-46eb-b9f3-e361638fd3d1,absurdity.yoga,available,32.49,32.49,high,low,9,namesilo,,,16/09/2026 18:39
 81140fc7-e937-4197-86b7-a53a71205c8f,gingerbread.yoga,available,32.49,32.49,high,low,11,namesilo,,,
-88ac580e-ca38-407a-9970-1e1222770075,stephenson.yoga,available,32.49,32.49,medium,low,10,namesilo,,,25/09/2026 06:30
+88ac580e-ca38-407a-9970-1e1222770075,stephenson.yoga,available,32.49,32.49,high,low,10,namesilo,,,25/09/2026 06:30
+5d65a17e-f543-4d17-b3a9-655e537aba54,lucca.yoga,available,26.08,26.08,high,low,5,spaceship,,,29/09/2026 21:45
 f9d54889-e1c0-4d66-85fa-b29a44e32c22,intrinsic.yoga,resell,,,high,low,9,"GoDaddy.com, LLC",13/02/2017 02:47,13/02/2027 02:47,26/09/2026 06:56
 6b4a7943-e8c6-43a0-981e-b80d56aa19f9,slicked.yoga,available,33.98,45.98,medium,low,7,namecheap,,,08/09/2026 20:52
 c5883a84-111a-4f18-8e4e-071b7af5350d,claus.yoga,available,32.49,32.49,medium,low,5,namesilo,,,27/09/2026 02:28
 c2a93a5b-cd01-4dea-9128-62fda066f6e5,billing.yoga,available,32.49,32.49,high,low,7,namesilo,,,23/09/2026 16:30
+2dc9f50a-9104-45ea-a787-99367266b404,abelian.yoga,available,26.08,26.08,high,low,7,spaceship,,,29/09/2026 08:39
 9dd9c993-3680-4385-8063-b580a06b036e,seized.yoga,available,45.98,,medium,low,6,namecheap,,,
-21aa84a1-92ff-4b20-b9fd-b8737f588a07,wedge.yoga,available,26.08,26.08,medium,low,5,spaceship,,,28/09/2026 13:53
+21aa84a1-92ff-4b20-b9fd-b8737f588a07,wedge.yoga,available,26.08,26.08,high,low,5,spaceship,,,28/09/2026 13:53
 4bb8cfc1-399a-4d7a-9279-4e403d11ba3b,tubed.yoga,available,33.98,45.98,high,low,5,namecheap,,,11/09/2026 20:56
 b054092a-266a-47fd-bb0e-047ac2f8510c,habitual.yoga,available,33.98,45.98,high,low,8,namecheap,,,20/08/2026 21:28
 32ed0b45-1d5d-4f59-8af5-7030e0e08fd2,difficult.yoga,available,32.49,32.49,high,low,9,namesilo,,,24/09/2026 08:14
 e438dfec-532e-41ed-959e-1095f2a5e782,radius.yoga,available,32.49,32.49,high,low,6,namesilo,,,28/09/2026 03:00
+543d9746-f56e-4156-97d3-f5a99f93acf7,felicity.yoga,available,26.08,26.08,high,low,8,spaceship,,,29/09/2026 12:15
 bede06c1-23fb-4931-93b1-d4c567c8046a,purchased.yoga,available,25.2,25.2,low,low,9,cloudflare,,,28/09/2026 17:30
 dcc31f18-4171-49cd-83c4-a6a475263885,courageous.yoga,available,32.49,32.49,high,low,10,namesilo,,,23/09/2026 02:25
 805e784e-23f3-4bd1-b2c8-d0b9b61df2d4,surely.yoga,available,33.98,45.98,high,low,6,namecheap,,,24/09/2026 20:56
@@ -39,7 +42,7 @@ b1eaf9f0-4c91-4788-8552-1392f7b5bc62,lay.yoga,resell,,,high,low,3,"GoDaddy.com, 
 c7843cd7-b2ca-4761-bf39-f81f6bd62994,pentatonic.yoga,available,32.49,32.49,medium,low,10,namesilo,,,08/09/2026 15:05
 fa9b027e-8da9-4eb6-99a6-e623879e9ad6,adherent.yoga,available,32.49,32.49,high,low,8,namesilo,,,
 08716d68-c54d-47a6-852c-811d59e5f575,balsam.yoga,available,32.49,32.49,high,low,6,namesilo,,,22/09/2026 00:04
-2ebd2bc5-ca2b-4a43-8b4b-d491b1311e45,farsighted.yoga,available,32.49,32.49,medium,low,10,namesilo,,,17/08/2026 22:41
+2ebd2bc5-ca2b-4a43-8b4b-d491b1311e45,farsighted.yoga,available,32.49,32.49,high,low,10,namesilo,,,17/08/2026 22:41
 46169c6d-a246-4054-b7b4-2e4156f06d1d,xxxvii.yoga,available,32.49,32.49,medium,low,6,namesilo,,,
 fc5750cb-5a3f-43ca-aadd-00318783f617,baeda.yoga,available,32.49,32.49,medium,low,5,namesilo,,,21/09/2026 17:19
 cb0ea3c7-a363-4795-aa8c-323e3b8aa18d,deficient.yoga,available,32.49,32.49,medium,low,9,namesilo,,,13/08/2026 23:22
@@ -48,6 +51,7 @@ cb0ea3c7-a363-4795-aa8c-323e3b8aa18d,deficient.yoga,available,32.49,32.49,medium
 b306ad28-1807-4292-8f20-a48a7852a05b,failed.yoga,available,32.49,32.49,medium,low,6,namesilo,,,
 a3f652d1-8aa2-4c8f-b8b4-51ed71368497,apparition.yoga,available,33.98,45.98,high,low,10,namecheap,,,08/09/2026 18:34
 89cb40d1-0877-470d-8b86-de4af6c15cb9,uneducated.yoga,available,32.49,32.49,medium,low,10,namesilo,,,12/09/2026 08:53
+241692f1-cba0-46c2-9891-5eba3ddc379c,emergencies.yoga,available,33.98,45.98,medium,low,11,namecheap,,,29/09/2026 16:56
 5e86c779-317f-4549-9078-9023aa270cb1,backhand.yoga,available,32.49,32.49,high,low,8,namesilo,,,08/08/2026 05:43
 2bc1f0c7-a7eb-4966-b2b2-a01b048fdd3e,cheeky.yoga,available,32.49,32.49,high,low,6,namesilo,,,11/08/2026 02:26
 0b7e2787-75b2-4e45-be27-f8847f584210,blatta.yoga,available,32.49,32.49,medium,low,6,namesilo,,,24/09/2026 04:54
@@ -60,65 +64,74 @@ deb9cce7-cf53-4e05-b213-be336884cd81,stative.yoga,available,33.98,45.98,medium,l
 8d1b2ccf-d1e3-4639-9855-8e6d67022562,yearn.yoga,available,32.49,32.49,high,low,5,namesilo,,,24/08/2026 08:59
 2734ab0f-3b07-473a-bbd0-c580dd14e6a1,bivouac.yoga,available,32.49,32.49,medium,low,7,namesilo,,,11/08/2026 15:54
 580b423d-4fe3-4b37-8a43-005e3d958d9c,squealed.yoga,available,32.49,32.49,low,low,8,namesilo,,,20/09/2026 17:30
+4d621621-bba5-43a6-8c90-4fd4ecc98bac,entrusted.yoga,available,26.08,26.08,medium,low,9,spaceship,,,29/09/2026 16:07
+42769770-6d3b-4299-b6f0-37a932cdc68e,geddes.yoga,available,26.08,26.08,medium,low,6,spaceship,,,29/09/2026 15:03
 36638979-ebc5-4488-abf7-e3007f4504f6,rotate.yoga,available,26.97,26.97,high,low,6,dynadot,,,29/09/2026 02:43
+234bdc74-94c1-4132-a4f9-dd4bf578cea8,inscription.yoga,available,32.49,32.49,high,low,11,namesilo,,,29/09/2026 15:57
 ada8f94f-0071-4e2c-9fe8-a534da2f3d1d,collins.yoga,available,32.49,32.49,high,low,7,namesilo,,,24/09/2026 16:19
+4e720fb7-5ff1-44e6-a997-5486c5203437,superstitious.yoga,available,32.49,32.49,medium,low,13,namesilo,,,29/09/2026 14:38
 537071e7-f4e4-4158-be95-bd48c2629451,feeding.yoga,available,32.49,32.49,high,low,7,namesilo,,,25/09/2026 22:30
+a3109b55-7fe9-4165-b1c3-713f797cce50,lourdes.yoga,available,26.08,26.08,high,low,7,spaceship,,,29/09/2026 09:34
 a583a846-d320-4334-b834-93fd2f36c85a,sawtooth.yoga,available,32.49,32.49,medium,low,9,namesilo,,,
 a6de52be-70fa-4d12-8d0d-04cd4953b8ae,moe.yoga,premium,41.6,26.08,high,medium,3,spaceship,,,28/09/2026 12:10
 8f75acbb-9bdc-46e2-994b-a7b23dc9fc4f,fluky.yoga,available,32.49,32.49,medium,low,5,namesilo,,,18/08/2026 09:19
 9499cb58-f93e-4b34-833d-ee1753860824,atticus.yoga,available,33.98,45.98,high,low,7,namecheap,,,21/09/2026 01:46
-661abcad-b4bb-4085-9abc-1f1261faa849,bayonet.yoga,available,33.98,45.98,medium,low,7,namecheap,,,22/09/2026 18:04
+661abcad-b4bb-4085-9abc-1f1261faa849,bayonet.yoga,available,33.98,45.98,high,low,7,namecheap,,,22/09/2026 18:04
 99eccbbc-2a90-4036-9da6-37782787859f,faecal.yoga,available,32.49,32.49,medium,low,6,namesilo,,,17/08/2026 20:36
 8860e045-5d6c-4cc7-8def-fd14ddad726d,assouan.yoga,available,32.49,32.49,medium,low,7,namesilo,,,20/09/2026 16:37
-d8dcb198-ce3b-4725-8e17-85529c00765b,bionomics.yoga,available,32.49,32.49,medium,low,9,namesilo,,,23/09/2026 18:43
+4a03c3f0-821c-434c-ae96-d5faee182689,overlooking.yoga,available,33.98,45.98,medium,low,11,namecheap,,,30/09/2026 00:35
+d8dcb198-ce3b-4725-8e17-85529c00765b,bionomics.yoga,available,32.49,32.49,high,low,9,namesilo,,,23/09/2026 18:43
 c191c501-96c4-4983-850a-54d0d0849c4b,tomatoes.yoga,available,25.2,25.2,medium,low,8,cloudflare,,,28/09/2026 12:33
 7431b226-013a-442f-ac39-8031ec409a95,che.yoga,resell,,,high,low,3,,,,29/09/2026 02:51
 adf356b6-7260-42c6-b580-d7e8185339aa,agronomic.yoga,available,32.49,32.49,medium,low,9,namesilo,,,
-3ca6dd68-c329-4d21-820e-74ed8916eb43,mentation.yoga,available,32.49,32.49,medium,low,9,namesilo,,,11/09/2026 13:33
+3ca6dd68-c329-4d21-820e-74ed8916eb43,mentation.yoga,available,32.49,32.49,high,low,9,namesilo,,,11/09/2026 13:33
 9aeebd4d-64b8-408b-8142-7c7e91c47f82,additions.yoga,available,32.49,32.49,medium,low,9,namesilo,,,18/09/2026 16:32
 f023e995-fe5a-4bfc-bf1f-60968e896222,tavern.yoga,available,32.49,32.49,high,low,6,namesilo,,,28/09/2026 15:26
 6c53a443-3403-4a09-b461-271cc37e6c85,teams.yoga,available,33.98,45.98,high,low,5,namecheap,,,17/09/2026 19:00
+90485b09-95a7-4350-bbe4-11b17388702c,orkney.yoga,available,32.49,32.49,medium,low,6,namesilo,,,29/09/2026 15:23
 3d69b4cc-7ee3-4355-9a6b-f92d00886912,fruitcake.yoga,available,32.49,32.49,medium,low,9,namesilo,,,10/09/2026 00:13
 315ae496-5838-4365-ba38-022b086fa0d2,expectable.yoga,available,33.98,45.98,medium,low,10,namecheap,,,17/08/2026 18:02
-76337df6-66b5-4f63-964f-e7187726fecc,hater.yoga,available,32.49,32.49,medium,low,5,namesilo,,,
+76337df6-66b5-4f63-964f-e7187726fecc,hater.yoga,available,25.2,25.2,medium,low,5,cloudflare,,,29/09/2026 22:19
 6b8f07d2-c695-49e7-bae4-276f4eeabc87,sire.yoga,available,26.26,26.26,high,low,4,porkbun,,,28/09/2026 14:08
 34e143d9-8866-4679-9cc1-71cb5d675b05,whales.yoga,available,26.08,26.08,medium,low,6,spaceship,,,28/09/2026 08:48
 5fa94890-1be4-4a6d-848a-9f1b8f20fe2f,soigne.yoga,available,32.49,32.49,medium,low,6,namesilo,,,10/09/2026 13:28
 790c21d1-c7bd-43c5-897d-1bf7dab04aa5,batavia.yoga,available,26.08,26.08,high,low,7,spaceship,,,27/09/2026 18:11
 5387c323-6024-4936-8fb3-9bf41773ecf1,realise.yoga,available,26.08,26.08,high,low,7,spaceship,,,27/09/2026 16:29
-55a42b39-42b5-4fed-a039-b3750fbd5dbd,hammer.yoga,available,32.49,32.49,high,low,6,namesilo,,,
+55a42b39-42b5-4fed-a039-b3750fbd5dbd,hammer.yoga,available,26.97,26.97,high,low,6,dynadot,,,29/09/2026 19:53
 54382303-2f32-4865-a78a-ff4601c35162,youngster.yoga,available,32.49,32.49,high,low,9,namesilo,,,25/08/2026 00:01
 e18975f8-d27f-473d-960c-70b4de01f735,mysterious.yoga,available,32.49,32.49,high,low,10,namesilo,,,24/09/2026 03:42
 26b98881-6ef3-4742-846e-97fe7c6d52c6,assyria.yoga,available,32.49,32.49,medium,low,7,namesilo,,,20/09/2026 16:47
 8c97fbfe-c0fb-44ee-a6ab-350cce1179c3,bratty.yoga,available,32.49,32.49,medium,low,6,namesilo,,,11/08/2026 02:37
 23b07a55-1126-4caf-8210-005b1e53eaf2,usages.yoga,available,26.97,26.97,medium,low,6,dynadot,,,29/09/2026 05:10
 b525b3b6-6bf2-4855-9f7f-2f5a7e4dced7,potency.yoga,available,32.49,32.49,high,medium,7,namesilo,,,09/09/2026 00:49
+33192d4d-c55a-48f8-b8ec-faa4be52f837,encounters.yoga,available,32.49,32.49,medium,low,10,namesilo,,,29/09/2026 17:37
 ffef4c54-f402-43e9-9826-709ec345c940,deputies.yoga,available,25.2,25.2,low,low,8,cloudflare,,,29/09/2026 05:37
 37291de3-8a7c-46c2-878a-ce93992851b3,sourcecode.yoga,available,32.49,32.49,high,low,11,namesilo,,,08/09/2026 07:26
 60985e56-0e44-4817-bf62-fd80184d8d37,adultery.yoga,available,32.49,32.49,medium,low,8,namesilo,,,17/09/2026 10:25
-a999ea51-8fbe-43e0-842e-db7b660d99e1,permanently.yoga,available,26.97,26.97,medium,low,11,dynadot,,,28/09/2026 07:19
+a999ea51-8fbe-43e0-842e-db7b660d99e1,permanently.yoga,available,26.97,26.97,high,low,11,dynadot,,,28/09/2026 07:19
 551c181d-a242-460e-baaa-ae8124462b3b,gains.yoga,available,33.98,45.98,medium,low,5,namecheap,,,18/09/2026 18:50
 a1288c13-8e43-4cd2-81de-fbe54d1216c2,jangling.yoga,available,32.49,32.49,medium,low,8,namesilo,,,22/08/2026 12:19
 9f136867-e00e-496b-b647-259ca13fc131,utc.yoga,premium,440,26.97,medium,low,3,dynadot,,,28/09/2026 09:27
-0738c5af-a3c3-4eb1-942b-3c2a455a4caf,picker.yoga,available,32.49,32.49,medium,low,6,namesilo,,,24/09/2026 14:45
+0738c5af-a3c3-4eb1-942b-3c2a455a4caf,picker.yoga,available,32.49,32.49,high,low,6,namesilo,,,24/09/2026 14:45
 413aa052-df97-43ec-8518-624fbe194883,buena.yoga,available,26.08,26.08,high,low,5,spaceship,,,27/09/2026 21:05
 708e4af3-be15-48bd-a8c8-5d7d78fe2c61,unblessed.yoga,available,32.49,32.49,medium,low,9,namesilo,,,12/09/2026 02:14
 9b735ab3-d71f-426a-9975-3175b8772d74,yielded.yoga,available,32.49,32.49,medium,low,7,namesilo,,,18/09/2026 03:02
 d042cf5f-e52d-46f3-bafc-85580f8d96c1,tart.yoga,available,46.99,46.99,medium,low,4,name.com,,,13/08/2026 14:25
-8ed48fb4-ad12-44bd-8244-e7cef8f96d52,glinting.yoga,available,32.49,32.49,medium,low,8,namesilo,,,
+8ed48fb4-ad12-44bd-8244-e7cef8f96d52,glinting.yoga,available,32.49,32.49,high,low,8,namesilo,,,
 cc5ec3a5-0e4f-4542-80cc-97e5b6a9f682,godlike.yoga,available,32.49,32.49,high,low,7,namesilo,,,20/08/2026 16:06
+61dcda8e-b44b-44dc-8811-0fce5f81bbad,cta.yoga,premium,52,32.5,high,low,3,namecheap,,,29/09/2026 22:44
 d3553dcb-1df6-491c-89db-08960048c70b,bookshelf.yoga,available,32.49,32.49,high,low,9,namesilo,,,24/09/2026 07:17
 1e312090-34af-4da4-815f-67441a873296,matte.yoga,available,32.49,32.49,high,low,5,namesilo,,,25/09/2026 17:39
 d85ebfd7-97ba-4534-b307-b46c40284d57,dip.yoga,premium,47.2,29.5,high,low,3,namesilo,,,24/09/2026 10:33
 1c771e61-73dc-47da-8f4d-d9e4ee947189,buttocks.yoga,available,32.49,32.49,medium,low,8,namesilo,,,09/08/2026 10:25
-04e5f628-1d80-40cd-9d91-ebe6e4c88169,company.yoga,premium,512,29.5,high,low,7,namesilo,,,28/09/2026 02:42
+04e5f628-1d80-40cd-9d91-ebe6e4c88169,company.yoga,premium,512,29.5,high,low,7,namesilo,,,30/09/2026 01:24
 51b2b171-615b-42c0-a1d9-53036fb09efb,prevailing.yoga,available,32.49,32.49,high,medium,10,namesilo,,,09/09/2026 01:27
 c6fd9e5d-6f17-432d-b97b-825fa0dbedd8,gruff.yoga,available,32.49,32.49,high,low,5,namesilo,,,13/08/2026 11:25
 da9a8ab5-010b-43a4-93f2-efdb13aafc9e,armillary.yoga,available,32.49,32.49,medium,low,9,namesilo,,,06/08/2026 19:44
 429c6ec8-90de-4273-8af1-43d223216d21,salad.yoga,available,32.49,32.49,high,low,5,namesilo,,,
 3a0236a9-9917-4059-bd09-f13f1d47a687,dinnertime.yoga,available,33.98,45.98,high,low,10,namecheap,,,24/09/2026 22:22
 e49741a3-527e-4b3a-9a46-208788160f54,sloshed.yoga,available,32.49,32.49,low,low,7,namesilo,,,09/08/2026 15:48
-d3924a44-44e8-4527-84d5-99da0174067b,unplug.yoga,available,32.49,32.49,high,low,6,namesilo,,,
+d3924a44-44e8-4527-84d5-99da0174067b,unplug.yoga,available,32.49,32.49,high,low,6,namesilo,,,29/09/2026 15:31
 85d103de-07b6-4261-83fa-e5dc993eac90,relaxed.yoga,available,32.49,32.49,high,low,7,namesilo,,,09/09/2026 13:24
 c5981e07-bedd-4e63-bd42-7978c809af98,ounce.yoga,available,26.08,26.08,high,low,5,spaceship,,,28/09/2026 21:44
 f29b4a6e-c3eb-47c6-9141-c3959fa34100,biretta.yoga,available,32.49,32.49,medium,low,7,namesilo,,,23/09/2026 10:06
@@ -134,12 +147,14 @@ b160caec-383e-4b7f-bce6-a34b23b22309,bhutanese.yoga,available,33.98,45.98,medium
 37bc7a89-bb7c-4cd2-a9e6-80c94a933d94,delible.yoga,available,32.49,32.49,low,low,7,namesilo,,,14/08/2026 00:35
 c0578a69-e47a-416b-ab0c-75feb590cf40,fields.yoga,available,32.49,32.49,high,low,6,namesilo,,,25/09/2026 22:46
 e591f056-7e4d-447b-83b6-409fc83ae9a6,defeat.yoga,available,32.49,32.49,medium,low,6,namesilo,,,27/09/2026 12:58
-b11370c5-6799-439c-90fd-78a5d5f3b6ad,lafayette.yoga,available,32.49,32.49,high,low,9,namesilo,,,
+797029e1-3db1-4961-b447-4a0df84d4aae,advertise.yoga,available,26.97,26.97,high,low,9,dynadot,,,29/09/2026 20:39
+b11370c5-6799-439c-90fd-78a5d5f3b6ad,lafayette.yoga,available,32.49,32.49,high,low,9,namesilo,,,30/09/2026 01:47
 3c479cd0-ff5c-414d-a56f-b680744ab466,pulls.yoga,available,33.98,45.98,medium,low,5,namecheap,,,16/09/2026 23:15
 c189fc71-f762-4edc-94ce-65a412c927a8,territorial.yoga,available,26.08,26.08,medium,low,11,spaceship,,,28/09/2026 21:11
 d818a6fc-ad5a-4ea8-b401-8785ef8beb63,laboring.yoga,available,33.98,45.98,medium,low,8,namecheap,,,14/08/2026 19:56
 dfb440b1-3320-4a83-9765-0e18f2df63f7,ansi.yoga,available,32.49,32.49,medium,low,4,namesilo,,,28/09/2026 11:47
 aebbc8b7-8513-4d85-8e70-507cd5968e13,elite.yoga,premium,242,29.5,high,medium,5,namesilo,,,24/09/2026 13:43
+0b019958-2cf6-4a1c-9e81-aadab1565680,nia.yoga,premium,41.6,26.08,high,low,3,spaceship,,,29/09/2026 20:55
 bf6c4578-a80e-4028-8ffd-44dac62e7c89,subgroup.yoga,available,25.2,25.2,medium,low,8,cloudflare,,,28/09/2026 15:24
 5014cfc4-0c8d-43d3-a192-c70f53bffeb0,anchorman.yoga,available,32.49,32.49,high,low,9,namesilo,,,19/09/2026 03:46
 bd303808-c1a1-4d5d-bbbd-510ac3942138,everywhere.yoga,resell,,,high,low,10,"GoDaddy.com, LLC",26/08/2020 18:48,26/08/2027 18:48,28/09/2026 14:50
@@ -147,7 +162,7 @@ ce1ec1f6-7a71-4d54-a9b3-57c6445cf037,bias.yoga,available,32.49,32.49,medium,low,
 701c39f8-6071-43d2-9777-0ee2cb490df3,conga.yoga,available,33.98,45.98,high,low,5,namecheap,,,24/09/2026 17:17
 e90b4f40-6da4-4996-a469-5e6a821dcd6e,alvin.yoga,available,32.49,32.49,high,low,5,namesilo,,,25/09/2026 13:49
 f90db63b-d505-44a6-9631-35f43a235a8d,libidinous.yoga,available,33.98,45.98,medium,low,10,namecheap,,,22/08/2026 20:09
-de6bfb82-2ce6-44cb-8a36-f89adee22cea,bluebottle.yoga,available,32.49,32.49,medium,low,10,namesilo,,,21/09/2026 14:09
+de6bfb82-2ce6-44cb-8a36-f89adee22cea,bluebottle.yoga,available,32.49,32.49,high,low,10,namesilo,,,21/09/2026 14:09
 27db43f2-4072-4ff6-b4ee-7efa2733cd86,amyloid.yoga,available,32.49,32.49,medium,low,7,namesilo,,,
 18ad9bfe-15f2-4297-b75c-d44f76b22600,signalize.yoga,available,32.49,32.49,high,medium,9,namesilo,,,10/09/2026 08:01
 7b30168e-7fca-40e4-b506-8e560b26d412,backblast.yoga,available,33.98,45.98,medium,low,9,namecheap,,,21/09/2026 14:26
@@ -162,7 +177,7 @@ de6bfb82-2ce6-44cb-8a36-f89adee22cea,bluebottle.yoga,available,32.49,32.49,mediu
 beffbcc7-04d0-446e-ac98-e86cac258ab2,bedsore.yoga,available,32.49,32.49,medium,low,7,namesilo,,,22/09/2026 23:40
 1f429ce4-a19e-4f9a-90ee-750d7fc74624,constructive.yoga,available,45.98,,high,low,12,namecheap,,,
 df661284-b08f-4ef7-9a7e-a19297f85f36,heavenly.yoga,resell,,,high,low,8,"GoDaddy.com, LLC",12/01/2020 13:58,12/01/2027 13:58,26/09/2026 06:37
-745ed0d5-2f4b-48ab-b37b-c2814ca26d0e,parties.yoga,available,32.49,32.49,medium,low,7,namesilo,,,17/09/2026 10:18
+745ed0d5-2f4b-48ab-b37b-c2814ca26d0e,parties.yoga,available,32.49,32.49,high,low,7,namesilo,,,17/09/2026 10:18
 d82b420e-da23-4d3c-8df5-bfe57d2a4d66,explosive.yoga,available,32.49,32.49,high,low,9,namesilo,,,17/08/2026 18:33
 326438bb-4050-4705-adae-3f0d4321d926,ahem.yoga,available,33.98,45.98,high,low,4,namecheap,,,17/09/2026 20:20
 38896d40-1b55-4ea0-a9b2-904ff2b04396,bland.yoga,available,32.49,32.49,medium,low,5,namesilo,,,22/09/2026 21:44
@@ -173,8 +188,8 @@ b721a3ab-6a76-4ff9-9652-c3049b7a75c0,explain.yoga,available,32.49,32.49,high,low
 9ad1b05b-6569-4c93-997c-a7a377a41197,father.yoga,available,32.49,32.49,high,low,6,namesilo,,,29/09/2026 02:01
 e2db3d58-b9c6-4a37-8d34-8565db2f1657,diane.yoga,available,33.98,45.98,high,low,5,namecheap,,,25/09/2026 19:09
 971d958e-a51b-4319-b6d4-9048bc3b83d9,oriole.yoga,available,33.98,45.98,high,low,6,namecheap,,,18/09/2026 20:26
-4277026d-36aa-4a0f-972a-28de2bf31909,thou.yoga,available,32.49,32.49,medium,low,4,namesilo,,,21/09/2026 11:11
-3e748e35-b0d2-4dea-b3dd-c54b176d4a3e,plausibly.yoga,available,32.49,32.49,medium,low,9,namesilo,,,14/09/2026 09:28
+4277026d-36aa-4a0f-972a-28de2bf31909,thou.yoga,available,32.49,32.49,high,low,4,namesilo,,,21/09/2026 11:11
+3e748e35-b0d2-4dea-b3dd-c54b176d4a3e,plausibly.yoga,available,32.49,32.49,high,low,9,namesilo,,,14/09/2026 09:28
 bdc74c93-bc24-4844-bce7-19019ad0dc8a,snippet.yoga,available,32.49,32.49,high,low,7,namesilo,,,
 6aaba840-8fd7-4c25-a7c7-545fc8c8d4ac,silicon.yoga,available,32.49,32.49,high,low,7,namesilo,,,20/09/2026 22:24
 7464b04a-ce38-40da-9103-0a47ece0814c,bai.yoga,premium,52,32.5,high,low,3,namecheap,,,21/09/2026 18:49
@@ -182,6 +197,7 @@ bdc74c93-bc24-4844-bce7-19019ad0dc8a,snippet.yoga,available,32.49,32.49,high,low
 63232330-71dc-4d59-991e-6907aef2f752,recognition.yoga,available,32.49,32.49,high,low,11,namesilo,,,
 dd63087b-dd77-4f67-b805-995ea2a93132,opening.yoga,available,32.49,32.49,high,low,7,namesilo,,,04/09/2026 16:15
 53404e2e-604a-4b06-b046-0c0b923dc1f2,trackless.yoga,available,32.49,32.49,medium,low,9,namesilo,,,08/09/2026 10:29
+e4b5d0a7-7eae-428d-ad78-496950ad6ff3,earthworks.yoga,available,26.97,26.97,medium,low,10,dynadot,,,29/09/2026 17:50
 a387fb8e-3483-4e18-b616-47fad064f523,senatorial.yoga,available,32.49,32.49,medium,low,10,namesilo,,,10/09/2026 03:38
 f611f0ac-26fd-430a-82f7-73e40e950c07,inactive.yoga,available,32.49,32.49,medium,low,8,namesilo,,,22/08/2026 00:11
 0aadc248-79f9-41ae-bf57-37cda46b5858,hiv.yoga,premium,47.2,29.5,high,low,3,namesilo,,,25/09/2026 07:23
@@ -198,12 +214,12 @@ c8af4d1b-ccce-49a2-bd26-dfca0f7d8393,amity.yoga,available,32.49,32.49,high,low,5
 5026ef18-2347-4cba-94f0-3ead6ce2d0c6,que.yoga,premium,414.2,26.08,medium,low,3,spaceship,,,28/09/2026 07:40
 215c50d2-1ab8-49ab-899e-b429403b5b96,inmates.yoga,available,26.08,26.08,low,low,7,spaceship,,,28/09/2026 18:12
 5e8af455-d692-4a56-b066-b9c444e3cf4a,prodigy.yoga,available,32.49,32.49,high,low,7,namesilo,,,27/09/2026 07:16
-db273696-c6a8-4ea0-959a-da21e0dbbde2,duck.yoga,available,42.98,,high,low,4,namecheap,,,
+35c156dc-30fc-4a0a-815c-895b7cc3c3ba,dared.yoga,available,32.49,32.49,medium,low,5,namesilo,,,29/09/2026 16:49
 fb0ca459-48bd-4ea2-9bad-50e9074a2071,particles.yoga,available,32.49,32.49,medium,low,9,namesilo,,,
 1fc95030-96f5-4e86-a319-ac33a519e300,brighton.yoga,resell,,,high,low,8,"GoDaddy.com, LLC",26/08/2020 19:19,26/08/2027 19:19,26/09/2026 04:37
 a5ddb87a-b2bd-44ae-8904-94c8e5edd09d,connie.yoga,available,32.49,32.49,high,low,6,namesilo,,,25/09/2026 12:17
-a6609c08-e382-4d01-b7da-10c430dc95ae,kantian.yoga,available,32.49,32.49,medium,low,7,namesilo,,,22/08/2026 15:06
-496f8c95-0012-42c1-83b8-a09dc154f22e,fortune.yoga,available,32.49,32.49,high,low,7,namesilo,,,25/09/2026 10:08
+a6609c08-e382-4d01-b7da-10c430dc95ae,kantian.yoga,available,32.49,32.49,high,low,7,namesilo,,,22/08/2026 15:06
+496f8c95-0012-42c1-83b8-a09dc154f22e,fortune.yoga,available,26.08,26.08,high,low,7,spaceship,,,29/09/2026 09:17
 6e6061af-68f0-401a-b183-ca3b506c14b9,chasing.yoga,available,32.49,32.49,high,low,7,namesilo,,,27/09/2026 06:54
 754b2ffd-6496-4879-b426-6d1ba02d61b2,occidental.yoga,available,32.49,32.49,medium,low,10,namesilo,,,21/08/2026 07:25
 7487be16-0220-45af-a006-2b6aa350561e,watertown.yoga,available,33.98,45.98,medium,low,9,namecheap,,,28/09/2026 06:52
@@ -212,18 +228,18 @@ e297247b-0f64-454e-8b1e-ec34b22f9d43,poignant.yoga,available,32.49,32.49,high,lo
 0c2aa71d-0485-4138-8978-bfc832891f90,shavian.yoga,available,32.49,32.49,high,medium,7,namesilo,,,10/09/2026 06:09
 454dc7b0-6c15-49de-b467-1dc05bc7209c,bohemian.yoga,available,32.49,32.49,high,low,8,namesilo,,,10/08/2026 17:19
 51262933-bf63-499b-ad82-8256919a4d36,vogue.yoga,available,26.08,26.08,high,low,5,spaceship,,,29/09/2026 02:30
-7fc66feb-fd3f-4b79-97cd-7a63f08c7723,questioning.yoga,available,33.98,45.98,medium,low,11,namecheap,,,27/09/2026 09:01
+7fc66feb-fd3f-4b79-97cd-7a63f08c7723,questioning.yoga,available,33.98,45.98,high,low,11,namecheap,,,27/09/2026 09:01
 f195dc51-5013-4221-aca3-282373f86322,diagonally.yoga,available,32.49,32.49,medium,low,10,namesilo,,,14/09/2026 12:34
 48ae209f-b2e1-4740-b05d-a77f4558b90a,financially.yoga,available,32.49,32.49,medium,low,11,namesilo,,,28/09/2026 12:33
 3ddea8bd-4e54-45ea-8c0b-c03a73fd9dda,dolphins.yoga,available,26.97,26.97,medium,low,8,dynadot,,,28/09/2026 18:14
 92996993-7327-48c3-b6da-b18532e20822,nonpareil.yoga,available,32.49,32.49,high,low,9,namesilo,,,24/08/2026 17:02
 df426dfc-438e-4c0f-829d-1e7c70811650,favor.yoga,available,32.49,32.49,high,low,5,namesilo,,,27/09/2026 03:53
 11624742-005b-4a3c-ba0a-05532bb17bbe,condemned.yoga,available,26.08,26.08,medium,low,9,spaceship,,,28/09/2026 17:15
-fdc9ab7f-4f0d-49e0-902d-2aa98a30b166,july.yoga,available,32.49,32.49,high,low,4,namesilo,,,
+fdc9ab7f-4f0d-49e0-902d-2aa98a30b166,july.yoga,available,32.49,32.49,high,low,4,namesilo,,,30/09/2026 01:04
 cf0c7c5e-f479-4fd8-b6fd-a387b2b7a83a,glacial.yoga,available,32.49,32.49,medium,low,7,namesilo,,,18/08/2026 16:28
 5b52752e-085d-48d8-a35f-f40461efe36e,ciliate.yoga,available,32.49,32.49,medium,low,7,namesilo,,,12/08/2026 08:06
 a61c3343-1e8b-4b57-b500-b13abbfde55f,measurably.yoga,available,32.49,32.49,medium,low,10,namesilo,,,15/09/2026 13:50
-8115b651-bc11-4164-a76b-1d0a6ca986e3,matisse.yoga,available,32.49,32.49,high,low,7,namesilo,,,
+8115b651-bc11-4164-a76b-1d0a6ca986e3,matisse.yoga,available,32.49,32.49,high,low,7,namesilo,,,29/09/2026 22:40
 a84ae71f-914d-4541-aeeb-faa79799bfb5,tamarack.yoga,available,33.98,45.98,medium,low,8,namecheap,,,18/09/2026 20:18
 e2a46b50-06ad-4479-907d-0038500582df,papal.yoga,available,32.49,32.49,medium,low,5,namesilo,,,06/08/2026 04:09
 da5c0735-adf1-469f-ac8b-9a981be3b984,argosy.yoga,available,32.49,32.49,medium,low,6,namesilo,,,20/09/2026 04:43
@@ -235,14 +251,14 @@ e97fe607-002b-43ba-8a41-6d9f4c2d4452,neutral.yoga,premium,96,29.5,high,low,7,nam
 0e6f1560-306b-4016-b16f-73e89f81d9dc,stylishly.yoga,available,32.49,32.49,medium,low,9,namesilo,,,16/09/2026 07:28
 25cb8567-267c-4850-8945-ba233104e646,sunlit.yoga,available,32.49,32.49,high,low,6,namesilo,,,11/09/2026 01:59
 dafe41d9-7455-4891-aa93-66ad0e6fc60f,under.yoga,available,25.2,25.2,high,low,5,cloudflare,,,28/09/2026 09:43
-5d0f6712-0f48-47df-972c-fdfb480eaf14,asterism.yoga,available,33.98,45.98,medium,low,8,namecheap,,,20/09/2026 17:12
+5d0f6712-0f48-47df-972c-fdfb480eaf14,asterism.yoga,available,33.98,45.98,high,low,8,namecheap,,,20/09/2026 17:12
 b05a4b5b-0a7d-4f6f-9213-3c93c73d0626,bivalvia.yoga,available,32.49,32.49,medium,low,8,namesilo,,,23/09/2026 23:16
-077ccc95-48a1-41dd-b577-9bc86577b3e7,macleod.yoga,available,32.49,32.49,medium,low,7,namesilo,,,28/09/2026 02:12
+077ccc95-48a1-41dd-b577-9bc86577b3e7,macleod.yoga,available,32.49,32.49,high,low,7,namesilo,,,28/09/2026 02:12
 8e8146f1-ca9d-457d-bc02-be4e612dcd68,chapstick.yoga,available,32.49,32.49,high,low,9,namesilo,,,
-3e76f28e-6169-4a6e-8a53-f7cb322ed7f6,slashed.yoga,available,32.49,32.49,medium,low,7,namesilo,,,10/09/2026 10:06
+3e76f28e-6169-4a6e-8a53-f7cb322ed7f6,slashed.yoga,available,32.49,32.49,high,low,7,namesilo,,,10/09/2026 10:06
 c431ce0c-d581-4c01-b4a1-e89750e9b481,aruru.yoga,available,32.49,32.49,medium,low,5,namesilo,,,20/09/2026 12:26
 aa7553a2-6950-464c-a261-058d1495f4b2,catholic.yoga,available,32.49,32.49,high,low,8,namesilo,,,11/08/2026 22:01
-e7d92adf-eebe-459a-abb3-f2e5c15bd2ce,bestiary.yoga,available,32.49,32.49,medium,low,8,namesilo,,,23/09/2026 10:36
+e7d92adf-eebe-459a-abb3-f2e5c15bd2ce,bestiary.yoga,available,32.49,32.49,high,low,8,namesilo,,,23/09/2026 10:36
 4ad20092-2778-4431-813a-22fd34021333,lorentz.yoga,available,26.08,26.08,medium,low,7,spaceship,,,28/09/2026 19:26
 5b153970-5c83-403b-9108-aaa7c4d4fca6,since.yoga,available,32.49,32.49,high,low,5,namesilo,,,
 66327a2e-9ab8-4d91-9bc4-ef935337a4ed,sometimes.yoga,available,46.99,46.99,high,low,9,name.com,,,16/09/2026 04:53
@@ -252,10 +268,11 @@ b8fbd546-d5e4-4ea5-a289-29c7f6ac1226,itv.yoga,premium,47.2,29.5,high,medium,3,na
 ea87e2b5-f2db-4f18-bf33-7d4aee47b95b,clonic.yoga,available,32.49,32.49,medium,low,6,namesilo,,,12/08/2026 12:02
 af085dac-1ac5-4fb1-ad4c-d311452af2d6,toll.yoga,available,45.98,,high,medium,4,namecheap,,,
 5e13ef21-acb1-462c-bd20-fa0010c7075a,subaquatic.yoga,available,32.49,32.49,medium,low,10,namesilo,,,10/09/2026 23:28
+49967664-dab4-457c-b4e0-696b77a56e43,dealings.yoga,available,26.08,26.08,high,low,8,spaceship,,,29/09/2026 18:35
 bb76473f-3cf5-4146-9d7f-e8f5757ae06c,offerings.yoga,available,33.98,45.98,medium,low,9,namecheap,,,18/09/2026 10:39
 b0018df6-8031-4d44-8ac3-38525f7fabeb,colt.yoga,available,25.2,25.2,high,low,4,cloudflare,,,28/09/2026 09:25
 41ec13c7-f2a8-4b2a-8ed9-c332f4bd0c6c,chancy.yoga,available,32.49,32.49,medium,low,6,namesilo,,,12/08/2026 01:41
-9197ea13-02b6-4242-93c2-36bac5c94b4a,disgust.yoga,available,32.49,32.49,high,low,7,namesilo,,,
+9197ea13-02b6-4242-93c2-36bac5c94b4a,disgust.yoga,available,26.26,26.26,high,low,7,porkbun,,,29/09/2026 15:47
 816ca77b-e8f1-43ca-8f8c-3281da82fc87,ferris.yoga,available,26.08,26.08,medium,low,6,spaceship,,,28/09/2026 22:04
 b8b84029-b65f-45cf-ae2d-f8c1aa09ddd4,gallery.yoga,available,32.49,32.49,high,low,7,namesilo,,,20/09/2026 09:55
 42799c7d-dee2-498d-8232-9a926f0f73af,actinide.yoga,available,32.49,32.49,medium,low,8,namesilo,,,
@@ -263,27 +280,31 @@ b8b84029-b65f-45cf-ae2d-f8c1aa09ddd4,gallery.yoga,available,32.49,32.49,high,low
 6893b489-425f-41fc-bd24-ece3f024ad8f,tribal.yoga,available,33.98,45.98,high,low,6,namecheap,,,11/09/2026 19:22
 e888e775-a2ca-4861-9c3a-2b9b170b9b84,solidus.yoga,available,32.49,32.49,high,low,7,namesilo,,,23/09/2026 12:18
 6198eaac-6a25-4b59-9455-be011ffa009c,domingo.yoga,available,32.49,32.49,high,low,7,namesilo,,,25/09/2026 04:55
-f5f908b3-8e7b-4242-ab7e-cda44115bf5b,prickly.yoga,available,32.49,32.49,medium,low,7,namesilo,,,08/08/2026 17:34
+f5f908b3-8e7b-4242-ab7e-cda44115bf5b,prickly.yoga,available,32.49,32.49,high,low,7,namesilo,,,08/08/2026 17:34
 d9c438a2-6c52-4813-a3a0-f459c6fefe62,pretzel.yoga,available,32.49,32.49,high,low,7,namesilo,,,
 168bcd55-41f0-47e5-838b-7d8bde78eb1b,biz.yoga,premium,512,29.5,high,low,3,namesilo,,,23/09/2026 23:18
 ced0afba-f8ef-4682-b94a-6a6cde80c711,forsaking.yoga,available,32.49,32.49,medium,low,9,namesilo,,,16/09/2026 13:59
 97f4d337-18c0-489a-813f-ed5df8caef75,neighbours.yoga,available,32.49,32.49,medium,low,10,namesilo,,,18/09/2026 07:42
 d981eb3a-f0a6-4f30-9184-ae53f759c81f,enhance.yoga,available,32.49,32.49,high,low,7,namesilo,,,
-5a931ebf-8c5c-4b30-a56b-10fb2c0db56a,rides.yoga,available,32.49,32.49,medium,low,5,namesilo,,,17/09/2026 06:42
-9863daf5-d4de-4ecb-8f97-6296d20da1e6,thug.yoga,available,32.49,32.49,medium,low,4,namesilo,,,27/09/2026 08:15
-1266c85d-bb9f-4180-9070-154a51d6188c,neutrality.yoga,available,32.49,32.49,high,low,10,namesilo,,,
+5a931ebf-8c5c-4b30-a56b-10fb2c0db56a,rides.yoga,available,32.49,32.49,high,low,5,namesilo,,,17/09/2026 06:42
+9863daf5-d4de-4ecb-8f97-6296d20da1e6,thug.yoga,available,32.49,32.49,high,low,4,namesilo,,,27/09/2026 08:15
+1266c85d-bb9f-4180-9070-154a51d6188c,neutrality.yoga,available,32.49,32.49,high,low,10,namesilo,,,29/09/2026 15:55
 0e606c53-0fcf-43e1-a163-89b29ed274f6,recumbent.yoga,available,32.49,32.49,medium,low,9,namesilo,,,
+89b2a614-99f5-4da1-b024-e6b80a63dc33,secretaries.yoga,available,32.49,32.49,medium,low,11,namesilo,,,30/09/2026 00:46
+14a6faf5-02aa-499f-ad6c-5c48f7c55bcb,emphasis.yoga,available,26.08,26.08,high,low,8,spaceship,,,29/09/2026 12:11
 6182df40-c960-4241-8b0c-fc19e56288ee,baseness.yoga,available,32.49,32.49,medium,low,8,namesilo,,,22/09/2026 10:25
-fc387783-12ad-4793-90af-aa9724768f6c,manic.yoga,available,32.49,32.49,medium,low,5,namesilo,,,18/08/2026 15:04
+fc387783-12ad-4793-90af-aa9724768f6c,manic.yoga,available,32.49,32.49,high,low,5,namesilo,,,18/08/2026 15:04
 1a028f23-0baf-4901-b269-4b8cc26297ba,legal.yoga,resell,,,high,medium,5,"GoDaddy.com, LLC",26/08/2020 19:11,26/08/2027 19:11,26/09/2026 07:11
 25f2046c-02b5-4b6a-8866-51179d21d0f7,backward.yoga,available,32.49,32.49,high,low,8,namesilo,,,22/09/2026 15:53
 fe00d32b-8e89-45c4-a642-cfead2a8116e,donatus.yoga,available,32.49,32.49,medium,low,7,namesilo,,,17/09/2026 12:26
+f0e65fa5-b824-46b1-a4cc-9e3a8143885b,deccan.yoga,available,32.49,32.49,medium,low,6,namesilo,,,29/09/2026 23:43
 38077705-48c3-4219-b33e-29f2c0849b0b,lucullan.yoga,available,32.49,32.49,medium,low,8,namesilo,,,24/08/2026 11:00
+30951da0-bb3e-47a6-b212-90926216b216,riverside.yoga,available,33.98,45.98,high,low,9,namecheap,,,29/09/2026 07:59
 e05ca286-8b65-4934-aa10-9e5363375398,berzelius.yoga,available,33.98,45.98,medium,low,9,namecheap,,,23/09/2026 10:24
 822e9f1b-fa90-4fa9-86f9-1767b7b42d07,negro.yoga,available,32.49,32.49,medium,low,5,namesilo,,,03/09/2026 15:10
 b24f6192-e0c6-476d-89b1-dc38306d2a8d,incensed.yoga,available,32.49,32.49,medium,low,8,namesilo,,,22/08/2026 01:01
 7139921f-64f2-4f03-99fb-1cf5748c2616,aggressor.yoga,available,32.49,32.49,medium,low,9,namesilo,,,17/09/2026 17:41
-16455917-e051-4354-ad14-78876912de03,aquitaine.yoga,available,33.98,45.98,medium,low,9,namecheap,,,19/09/2026 23:17
+16455917-e051-4354-ad14-78876912de03,aquitaine.yoga,available,33.98,45.98,high,low,9,namecheap,,,19/09/2026 23:17
 3f5eaf3d-bef8-497d-9dd8-e1300b124029,astasia.yoga,available,32.49,32.49,medium,low,7,namesilo,,,20/09/2026 16:54
 98983db6-d134-4a8c-9e01-020acf59a38c,awkward.yoga,available,33.98,45.98,high,low,7,namecheap,,,22/09/2026 15:31
 abb9c25d-97fe-40a8-aacf-084c8e2c3203,attosecond.yoga,available,32.49,32.49,medium,low,10,namesilo,,,21/09/2026 02:11
@@ -292,11 +313,12 @@ b3ecc493-8678-455d-a2b0-81ff4a0e477e,blackshirt.yoga,available,32.49,32.49,mediu
 e3fe9609-4de2-44f9-830e-11221631761d,hospitably.yoga,available,32.49,32.49,medium,low,10,namesilo,,,15/09/2026 01:10
 98d388f0-0901-4f0f-b284-1302661f9bae,contracts.yoga,available,32.49,32.49,medium,low,9,namesilo,,,28/09/2026 08:33
 0bb67962-498e-4cda-bf07-29d90bb21f20,brainstorm.yoga,available,32.49,32.49,high,low,10,namesilo,,,24/09/2026 08:05
+be995b78-2086-459f-baf6-4d4b721347d2,archaeology.yoga,available,32.49,32.49,high,low,11,namesilo,,,29/09/2026 22:59
 170e8c86-030d-4b61-bab6-5e15294bacf8,flour.yoga,available,32.49,32.49,high,low,5,namesilo,,,28/09/2026 14:13
 21c4029a-5718-4755-89ce-50fe7872e26c,stu.yoga,premium,,,high,low,3,,,,29/09/2026 03:33
 3713152c-21f4-4496-9317-b637352854a5,agha.yoga,available,33.98,45.98,medium,low,4,namecheap,,,17/09/2026 15:59
-6ed8d3e1-4ab2-4f3d-9291-a2ca747b2793,tasking.yoga,available,32.49,32.49,medium,low,7,namesilo,,,
-9107cac3-afe6-48c1-9eb4-fd40d37de29b,dull.yoga,available,32.49,32.49,medium,low,4,namesilo,,,23/09/2026 00:25
+6ed8d3e1-4ab2-4f3d-9291-a2ca747b2793,tasking.yoga,available,32.49,32.49,high,low,7,namesilo,,,
+9107cac3-afe6-48c1-9eb4-fd40d37de29b,dull.yoga,available,32.49,32.49,high,low,4,namesilo,,,23/09/2026 00:25
 bf925b3b-f778-4cea-8ff1-6cd4a8c6ba9a,bootless.yoga,available,32.49,32.49,medium,low,8,namesilo,,,10/08/2026 19:37
 cd268256-6a07-4bdd-af7a-89896076493c,profane.yoga,available,32.49,32.49,high,low,7,namesilo,,,10/08/2026 13:22
 4ffd5b31-d2bf-419d-b845-88117805d3b4,cedar.yoga,available,33.98,45.98,high,low,5,namecheap,,,29/09/2026 00:24
@@ -311,13 +333,13 @@ a949e214-c19a-4d3f-84aa-ddff1cfc756b,spinning.yoga,available,32.49,32.49,high,lo
 113e3d74-a21d-4925-8ddf-bea979d27566,jolt.yoga,available,32.49,32.49,high,low,4,namesilo,,,25/09/2026 11:45
 f68269b2-8356-4f2d-9d02-461c469dc592,profitable.yoga,available,32.49,32.49,high,low,10,namesilo,,,27/09/2026 07:05
 79bc7f92-2c33-4b4d-b31c-c1a897d16c7a,barb.yoga,available,33.98,45.98,high,low,4,namecheap,,,22/09/2026 04:14
-12630902-54e7-475c-b1ef-41d8a5d7b3e1,sinking.yoga,available,32.49,32.49,medium,low,7,namesilo,,,28/09/2026 06:45
+12630902-54e7-475c-b1ef-41d8a5d7b3e1,sinking.yoga,available,32.49,32.49,high,low,7,namesilo,,,28/09/2026 06:45
 cb079446-e83d-4f28-9ca5-950aa447f68e,teeming.yoga,available,32.49,32.49,medium,low,7,namesilo,,,11/09/2026 10:05
 b605a8de-5c13-4947-a24f-658c324c5842,brit.yoga,available,32.49,32.49,high,low,4,namesilo,,,11/08/2026 04:52
 09073606-d1a3-40d1-ac03-c610a6d611a0,participate.yoga,available,25.2,25.2,high,low,11,cloudflare,,,28/09/2026 07:01
 a7549017-b0f0-4bdd-ad17-ede6b11b3069,checkroom.yoga,available,32.49,32.49,medium,low,9,namesilo,,,24/09/2026 14:04
 b3c4aa7f-2c3c-4bfb-9c6c-d783f0c9d0f9,vividly.yoga,available,32.49,32.49,high,low,7,namesilo,,,16/09/2026 11:06
-a9b9113c-2aa5-47ab-8396-a9a93ed20dcf,unattached.yoga,available,32.49,32.49,medium,low,10,namesilo,,,18/08/2026 14:48
+a9b9113c-2aa5-47ab-8396-a9a93ed20dcf,unattached.yoga,available,32.49,32.49,high,low,10,namesilo,,,18/08/2026 14:48
 a440b339-9bc2-423e-8555-9b72207eecf0,belatedly.yoga,available,33.98,45.98,medium,low,9,namecheap,,,22/08/2026 20:25
 c07ac9e6-5c72-46f2-aff6-a50b8261c927,angling.yoga,available,33.98,45.98,high,low,7,namecheap,,,19/09/2026 06:50
 b7a35b7f-b5b7-42e1-8d9a-ca27a17a25e6,tenured.yoga,available,32.49,32.49,medium,low,7,namesilo,,,11/09/2026 11:43
@@ -325,7 +347,7 @@ ab2a95f4-b6b1-45f5-bdf9-a60c4163c57e,amon.yoga,available,33.98,45.98,high,low,4,
 df424016-eebf-4475-8cfd-a57d90d3d7e8,identify.yoga,available,32.49,32.49,high,low,8,namesilo,,,25/09/2026 12:36
 1efa4181-4791-467f-ae04-3a5e65677faa,hopeless.yoga,available,32.49,32.49,medium,low,8,namesilo,,,21/08/2026 13:54
 35b34859-1e61-4a0f-a896-7229f23431ce,cleft.yoga,available,32.49,32.49,high,low,5,namesilo,,,12/08/2026 10:39
-a5dc8a91-c117-474a-a9b4-6e02a5588851,conduction.yoga,available,32.49,32.49,high,low,10,namesilo,,,
+a5dc8a91-c117-474a-a9b4-6e02a5588851,conduction.yoga,available,26.08,26.08,high,low,10,spaceship,,,29/09/2026 10:47
 477c6a36-32c2-4ba7-a83c-673d6744def3,perfectly.yoga,available,32.49,32.49,high,low,9,namesilo,,,28/09/2026 11:37
 e2bc9202-024f-4ba9-bfb4-dcab6ff0abaf,leavitt.yoga,available,25.2,25.2,medium,low,7,cloudflare,,,29/09/2026 04:25
 34adbecb-7bce-452e-8a29-01d9956a851a,florida.yoga,premium,242,29.5,high,medium,7,namesilo,,,25/09/2026 05:49
@@ -333,6 +355,7 @@ c598a74b-f0eb-408b-a960-49c1006378c9,surefooted.yoga,available,32.49,32.49,high,
 e6f3492a-df29-41b6-a270-21c1e6a5f32d,eyrie.yoga,available,32.49,32.49,high,low,5,namesilo,,,
 57d6fcdc-1517-4227-a039-dc8d1b64cb1f,glistening.yoga,available,32.49,32.49,high,low,10,namesilo,,,20/08/2026 14:30
 031526b8-3908-4f95-8f7e-b957a7dff98f,engineers.yoga,available,26.97,26.97,high,low,9,dynadot,,,28/09/2026 04:20
+09f90d2b-d4b9-46f7-ac49-5fd709b31df6,rebuilt.yoga,available,26.08,26.08,high,low,7,spaceship,,,29/09/2026 16:05
 d925724f-8c91-4ff0-990a-ecc2479f80f9,resinlike.yoga,available,32.49,32.49,medium,low,9,namesilo,,,09/09/2026 15:11
 d0fac84a-fead-4384-a97f-a4f2b3353e77,nodding.yoga,available,32.49,32.49,high,low,7,namesilo,,,12/08/2026 00:48
 760576d3-1c2b-4742-aad9-6e06141224f9,septuple.yoga,available,32.49,32.49,medium,low,8,namesilo,,,10/09/2026 04:23
@@ -368,8 +391,9 @@ f580ccaa-01e4-41cb-8425-8f1f9365a92a,snuggery.yoga,available,32.49,32.49,high,me
 5689dd8a-1de2-4a4e-870f-0be7f9c17c8b,theatrical.yoga,available,32.49,32.49,high,low,10,namesilo,,,11/09/2026 12:33
 d2528b7f-473a-4e92-b36d-9b793d448254,statute.yoga,available,33.98,45.98,high,low,7,namecheap,,,10/09/2026 19:18
 78cac71f-6e6e-451d-b5fe-229e06ed4595,alicia.yoga,available,32.49,32.49,high,low,6,namesilo,,,27/09/2026 07:22
-a4d4e0df-7d6c-4afe-b959-6470e6329905,disquiet.yoga,available,32.49,32.49,medium,low,8,namesilo,,,24/09/2026 22:51
-fdebc22b-2236-4e73-b8aa-d8ea7842cfc4,auspices.yoga,available,32.49,32.49,medium,low,8,namesilo,,,17/09/2026 12:16
+a4d4e0df-7d6c-4afe-b959-6470e6329905,disquiet.yoga,available,32.49,32.49,high,low,8,namesilo,,,24/09/2026 22:51
+fdebc22b-2236-4e73-b8aa-d8ea7842cfc4,auspices.yoga,available,32.49,32.49,high,low,8,namesilo,,,17/09/2026 12:16
+5270a521-fcc7-4296-81d2-174856e5f195,buckner.yoga,available,32.49,32.49,medium,low,7,namesilo,,,29/09/2026 09:53
 73ae7bb1-fcc6-4be8-96bb-ae203e8bdee5,subject.yoga,available,32.49,32.49,high,low,7,namesilo,,,03/09/2026 13:38
 9d17a8e3-2fdc-4c8f-ae53-710f46000a76,attainment.yoga,available,33.98,45.98,high,low,10,namecheap,,,17/09/2026 02:38
 1d1488a1-7524-482c-a8fd-e2924cafdacd,courteous.yoga,available,33.98,45.98,high,low,9,namecheap,,,24/09/2026 00:40
@@ -378,7 +402,7 @@ d0757eb8-78d6-473e-871d-279a92b41b8d,matched.yoga,available,33.98,45.98,high,low
 6631b76f-68ea-4dca-be3e-f8fa3816345b,favorable.yoga,available,32.49,32.49,high,low,9,namesilo,,,24/09/2026 17:21
 e7f9e684-f174-4021-a9fc-051dd26029c3,gibson.yoga,available,33.98,45.98,high,low,6,namecheap,,,18/09/2026 14:55
 77668f6e-0c38-42f6-a5f8-9e1c1d75d026,photograph.yoga,available,32.49,32.49,high,low,10,namesilo,,,26/09/2026 00:03
-ed4cb372-6007-4d3c-908b-0fd7a0719c12,pictured.yoga,available,32.49,32.49,medium,low,8,namesilo,,,14/08/2026 02:14
+ed4cb372-6007-4d3c-908b-0fd7a0719c12,pictured.yoga,available,32.49,32.49,high,low,8,namesilo,,,14/08/2026 02:14
 97206cda-cf40-491d-9a77-719fe2bbd9f4,ontop.yoga,available,32.49,32.49,medium,low,6,namesilo,,,16/09/2026 09:10
 b907bd63-f9b2-45f2-9276-a50d5a42a6c2,cloistered.yoga,available,32.49,32.49,medium,low,10,namesilo,,,12/08/2026 11:48
 17bb6431-8636-4af6-ab50-a47c1c03fae6,sevenup.yoga,available,32.49,32.49,high,low,8,namesilo,,,
@@ -387,8 +411,9 @@ ddcaf6b5-392c-4103-9d52-bf23b61b6410,mazy.yoga,available,32.49,32.49,medium,low,
 36a8eff0-17ff-4e62-8fc0-4f63cdf2e388,aliyah.yoga,available,33.98,45.98,high,low,6,namecheap,,,18/09/2026 08:11
 deba548e-2649-4aec-bada-c4775a2824ba,photographer.yoga,resell,,,high,low,12,,,,27/09/2026 06:12
 4bf9e8ed-19f1-4d7b-b033-3c38f708e4b9,bladder.yoga,available,32.49,32.49,high,low,7,namesilo,,,24/09/2026 03:26
-24e4d37a-f6ab-4ec2-839d-0e53384540cf,laundry.yoga,available,32.49,32.49,high,low,7,namesilo,,,
-a1c75cb9-7572-4095-87f1-01185ca90ba2,outfitted.yoga,available,33.98,45.98,medium,low,9,namecheap,,,04/09/2026 19:24
+42cf07bb-8ec0-48ef-b677-259df01894d5,yorkshire.yoga,available,26.08,26.08,high,low,9,spaceship,,,30/09/2026 03:11
+24e4d37a-f6ab-4ec2-839d-0e53384540cf,laundry.yoga,available,32.49,32.49,high,low,7,namesilo,,,30/09/2026 02:10
+a1c75cb9-7572-4095-87f1-01185ca90ba2,outfitted.yoga,available,33.98,45.98,high,low,9,namecheap,,,04/09/2026 19:24
 7e6923c8-cc24-4232-85c4-8d0fa84a31f8,neatly.yoga,available,32.49,32.49,high,low,6,namesilo,,,15/09/2026 16:16
 3c5d08a5-1289-406d-98ba-774547a41d12,bleached.yoga,available,32.49,32.49,medium,low,8,namesilo,,,10/08/2026 13:52
 de76f92c-5da8-4ef4-8ab3-164b57ece1f7,bandits.yoga,available,32.49,32.49,medium,low,7,namesilo,,,21/09/2026 01:18
@@ -412,12 +437,12 @@ c8ef5e29-e763-49ad-85c5-f8fc2d1b7abf,roundly.yoga,available,32.49,32.49,medium,l
 3f5b2db5-15df-4ca2-b33a-78a7f822d2d6,burr.yoga,available,32.49,32.49,medium,low,4,namesilo,,,16/09/2026 13:29
 d16eaad3-bf6f-4d2f-8b18-067a446d8a1f,negotiations.yoga,available,32.49,32.49,medium,low,12,namesilo,,,17/09/2026 08:01
 dac5eab1-870c-4aef-adf3-cb71f5fc15c5,traced.yoga,available,25.2,25.2,low,low,6,cloudflare,,,28/09/2026 13:04
-d4f899c7-c75b-46c9-9444-84b8d7604ac3,ovate.yoga,available,33.98,45.98,medium,low,5,namecheap,,,15/08/2026 18:03
+d4f899c7-c75b-46c9-9444-84b8d7604ac3,ovate.yoga,available,33.98,45.98,high,low,5,namecheap,,,15/08/2026 18:03
 84fe2337-4456-4d2d-8855-317b657d12d5,methodical.yoga,available,32.49,32.49,high,low,10,namesilo,,,24/08/2026 21:56
 899d1b29-702f-4679-9b5a-884f28b86d60,lackey.yoga,available,32.49,32.49,medium,low,6,namesilo,,,20/09/2026 15:38
 201109e6-6807-43dc-9683-7b4458ae9720,counted.yoga,available,45.98,,medium,low,7,namecheap,,,
 3fbc2719-767b-4bd8-90d6-cf881a3a5dfb,mirrored.yoga,available,32.49,32.49,high,low,8,namesilo,,,25/08/2026 01:11
-5a4a00f7-465d-4649-bdf6-b23086bbf9fa,diplomacy.yoga,available,32.49,32.49,high,low,9,namesilo,,,
+5a4a00f7-465d-4649-bdf6-b23086bbf9fa,diplomacy.yoga,available,25.2,25.2,high,low,9,cloudflare,,,29/09/2026 15:04
 aadaef4d-0471-44fc-9aa8-ed73c063b1ae,astatic.yoga,available,32.49,32.49,medium,low,7,namesilo,,,07/08/2026 08:36
 b3dacb3f-c33a-4e55-a3e0-1a13e5d86cf9,screwy.yoga,available,32.49,32.49,medium,low,6,namesilo,,,10/09/2026 00:08
 a5bf9b06-a742-4020-9fd1-78429745795b,observe.yoga,available,32.49,32.49,high,low,7,namesilo,,,25/09/2026 23:53
@@ -425,6 +450,7 @@ a5bf9b06-a742-4020-9fd1-78429745795b,observe.yoga,available,32.49,32.49,high,low
 f8809de8-1eb2-47c1-99e5-391e0f96b139,cyclosis.yoga,available,32.49,32.49,medium,low,8,namesilo,,,10/09/2026 22:24
 fcc40b9e-0807-4e50-9eac-0cd2e695f65a,demoralize.yoga,available,32.49,32.49,medium,low,10,namesilo,,,13/08/2026 02:16
 563ade14-ece2-4e73-9fdc-1030c53ed316,registered.yoga,available,26.08,26.08,high,low,10,spaceship,,,27/09/2026 11:32
+decb4b1b-de18-431e-921c-5e345eb21c4a,horsepower.yoga,available,26.26,26.26,high,low,10,porkbun,,,29/09/2026 19:06
 8fd70e9d-5f02-49fa-8797-3e4f24c7bfad,balata.yoga,available,33.98,45.98,medium,low,6,namecheap,,,21/09/2026 21:12
 1e49947a-6ebf-4ffd-932f-b5d2f732ba33,oxidized.yoga,available,32.49,32.49,medium,low,8,namesilo,,,04/09/2026 22:25
 8c263796-f22e-4f1b-8484-1a4112857717,lossless.yoga,available,32.49,32.49,medium,low,8,namesilo,,,24/08/2026 09:56
@@ -434,11 +460,14 @@ b028da8e-9759-4031-810e-8eefa8bf0c88,subtly.yoga,available,32.49,32.49,medium,lo
 5cf10c0a-28de-4ffa-8a49-62eba5f6bcd6,salary.yoga,available,32.49,32.49,high,low,6,namesilo,,,
 280b415e-eb38-4c2d-8499-c4f89d748f1f,increasingly.yoga,available,25.2,25.2,medium,low,12,cloudflare,,,29/09/2026 04:46
 f2356a0e-22e7-4589-9bcd-03d1d275febd,falmouth.yoga,available,32.49,32.49,medium,low,8,namesilo,,,28/09/2026 07:50
+e6bb58f3-103d-4c95-9302-3ebeba742be0,inability.yoga,available,26.08,26.08,medium,low,9,spaceship,,,29/09/2026 07:19
+8890f4f5-1916-4b3d-830d-0543e2d7fce4,cowper.yoga,available,25.2,25.2,high,low,6,cloudflare,,,29/09/2026 11:59
 4989868a-d642-47e6-96cc-d39ff90a77e7,leo.yoga,premium,47.2,29.5,high,medium,3,namesilo,,,25/09/2026 08:56
 f8555c22-621c-4f79-824d-eebae125aaec,absolutism.yoga,available,33.98,45.98,medium,low,10,namecheap,,,16/09/2026 18:00
 e74a3297-a02e-4f00-9db8-c8e269973af8,responsible.yoga,available,33.98,45.98,high,low,11,namecheap,,,25/09/2026 11:15
 33b9919f-b6d3-440a-804f-82a7af847f19,taal.yoga,available,32.49,32.49,medium,low,4,namesilo,,,
 321aea6b-e966-4ef7-a470-fae7967b3066,spa.yoga,premium,512,29.5,high,low,3,namesilo,,,28/09/2026 10:01
+56c258d1-8cb5-412f-8ccb-c4f7401d3933,imagining.yoga,available,32.49,32.49,high,low,9,namesilo,,,29/09/2026 14:49
 34aec06e-3066-479e-aa00-4919dd9a99fa,uncle.yoga,available,32.49,32.49,high,low,5,namesilo,,,
 3c87e353-694a-4031-8fb5-264020c2296c,filets.yoga,available,32.49,32.49,medium,low,6,namesilo,,,20/09/2026 11:33
 680b9272-232e-448a-a1d3-592e721576cb,livid.yoga,available,32.49,32.49,medium,low,5,namesilo,,,07/08/2026 02:24
@@ -449,12 +478,13 @@ ff6af062-c0b9-458d-a404-990dff0fac8e,fragile.yoga,available,32.49,32.49,high,low
 e26c4091-2423-4827-be9f-bca1a1c8a010,flexile.yoga,available,32.49,32.49,high,low,7,namesilo,,,18/08/2026 08:06
 742ff681-274e-41fe-b06f-b79946d68843,hulky.yoga,available,32.49,32.49,medium,low,5,namesilo,,,21/08/2026 14:48
 50894438-59dc-4595-a553-7a6d90433569,stain.yoga,available,32.49,32.49,high,low,5,namesilo,,,25/09/2026 16:55
+be2e3c08-2fca-4009-a718-1172e7898ebb,carousel.yoga,available,32.49,32.49,high,medium,8,namesilo,,,30/09/2026 00:59
 e42d9ba0-489f-4454-a931-315c49c14c98,barrels.yoga,available,32.49,32.49,high,low,7,namesilo,,,22/09/2026 08:23
 2b52cb8f-e2aa-4a70-9beb-b7ed5cf45db0,sterilised.yoga,available,33.98,45.98,medium,low,10,namecheap,,,10/09/2026 20:13
 a7991c1e-32b8-429a-a87d-f7917fe1dcf8,libyan.yoga,available,32.49,32.49,high,low,6,namesilo,,,23/08/2026 00:54
 f21b0682-b362-47f1-ad99-436b1375df4a,denude.yoga,available,32.49,32.49,medium,low,6,namesilo,,,14/08/2026 02:02
 87f36242-ab91-4343-b002-9904d83fc104,poorly.yoga,available,32.49,32.49,high,low,6,namesilo,,,25/09/2026 07:34
-a18663d0-0c78-400e-82a0-258600ebb6f1,intrastate.yoga,available,32.49,32.49,medium,low,10,namesilo,,,22/08/2026 08:45
+a18663d0-0c78-400e-82a0-258600ebb6f1,intrastate.yoga,available,32.49,32.49,high,low,10,namesilo,,,22/08/2026 08:45
 c2600774-34fe-4bc0-8090-1263533ea512,bearskin.yoga,available,46.99,46.99,high,low,8,name.com,,,22/09/2026 21:25
 d95b3a87-c6dc-4c0c-b31a-64ec8a086299,adroit.yoga,available,33.98,45.98,high,low,6,namecheap,,,21/09/2026 19:49
 252f5eb9-3960-4d7f-87d8-43f2ca33395f,futureless.yoga,available,33.98,45.98,low,low,10,namecheap,,,18/08/2026 19:15
@@ -466,23 +496,30 @@ d95b3a87-c6dc-4c0c-b31a-64ec8a086299,adroit.yoga,available,33.98,45.98,high,low,
 35027dd1-3561-4781-9006-200d81e75abc,stertorous.yoga,available,33.98,45.98,medium,low,10,namecheap,,,10/09/2026 20:21
 e60da612-10f2-4ded-b442-6f24c0c93b96,hesperian.yoga,available,32.49,32.49,medium,low,9,namesilo,,,21/08/2026 07:27
 ce66bea0-3a86-41cf-8604-ca7dfd110bcf,tropical.yoga,premium,2600,32.5,high,low,8,namecheap,,,11/09/2026 20:24
+24cf92f3-cfd0-42cf-9d71-7b3c4bdf0be2,epilepsy.yoga,available,1.99,49.99,high,low,8,godaddy,,,30/09/2026 01:32
 c11991e9-eff5-49c6-91ae-84f98f682083,adverbs.yoga,available,32.49,32.49,medium,low,7,namesilo,,,18/09/2026 21:42
 024bd0ab-0936-4558-85e2-e33173344304,xxvi.yoga,available,32.49,32.49,medium,low,4,namesilo,,,21/09/2026 12:52
-1d10cd43-c61f-467b-805e-14735d0dfd13,kilo.yoga,available,32.49,32.49,high,low,4,namesilo,,,
+1d10cd43-c61f-467b-805e-14735d0dfd13,kilo.yoga,available,26.97,26.97,high,low,4,dynadot,,,30/09/2026 01:16
+a641f734-cf86-483d-aa42-2e5b47b526f1,salerno.yoga,available,32.49,32.49,medium,low,7,namesilo,,,29/09/2026 08:00
 bb9f680a-d07f-4d53-90f3-648ca38b2af5,squeeze.yoga,available,32.49,32.49,high,low,7,namesilo,,,20/08/2026 22:27
 c1ec52c5-1b5e-4a80-96fd-769c641a8796,bextra.yoga,available,32.49,32.49,medium,low,6,namesilo,,,23/09/2026 12:09
 d8bf7ac5-9fe4-41e8-bc45-ebc7f667f910,traded.yoga,available,32.49,32.49,medium,low,6,namesilo,,,29/09/2026 04:46
 431b6948-2d50-4279-9a5e-508baf35e619,rings.yoga,available,32.49,32.49,high,low,5,namesilo,,,25/09/2026 10:24
 647eb550-162d-42ca-9dde-97e2930c3c13,mechanics.yoga,premium,96,29.5,high,low,9,namesilo,,,28/09/2026 02:33
 4c033149-c827-446d-bc7c-625a82aa1cec,eyestrain.yoga,available,32.49,32.49,medium,low,9,namesilo,,,20/09/2026 17:21
+37a04d8f-453f-4ccd-981e-ac219ff73372,guarantees.yoga,available,32.49,32.49,medium,low,10,namesilo,,,29/09/2026 11:28
 45fcfc86-4287-443f-b518-c0618347b594,scientifically.yoga,available,26.97,26.97,medium,low,14,dynadot,,,28/09/2026 07:41
 5ce92cfd-0c17-4b01-869a-eee42690d1fb,whippy.yoga,available,32.49,32.49,medium,low,6,namesilo,,,13/09/2026 11:26
 06546079-c4a6-4597-94e8-6f401f1efaa6,adana.yoga,available,33.98,45.98,medium,low,5,namecheap,,,17/09/2026 06:19
 f0f3b43e-582b-4474-b48e-f89b993de25a,leek.yoga,available,32.49,32.49,medium,low,4,namesilo,,,18/09/2026 11:25
 9e9df063-7361-4d47-8b06-390e1ca4d4c4,sting.yoga,available,32.49,32.49,high,low,5,namesilo,,,10/09/2026 20:46
-577d6551-827a-42cb-a5c8-49545dd9c3bc,jansen.yoga,available,25.2,25.2,medium,low,6,cloudflare,,,28/09/2026 18:46
+c1beef4a-335d-4507-af04-b0862f0ea71a,yucatan.yoga,available,26.08,26.08,high,low,7,spaceship,,,30/09/2026 03:11
+d877bf18-de17-43b7-9bcb-91375c6e5f76,intends.yoga,available,25.2,25.2,medium,low,7,cloudflare,,,29/09/2026 11:20
+577d6551-827a-42cb-a5c8-49545dd9c3bc,jansen.yoga,available,25.2,25.2,high,low,6,cloudflare,,,28/09/2026 18:46
 0d827120-49d1-4b38-9a8c-9ab2fed4be72,composure.yoga,available,32.49,32.49,high,low,9,namesilo,,,11/08/2026 14:55
-28e11b9e-9957-44fd-8dd8-6594bff475ef,unfriendly.yoga,available,32.49,32.49,medium,low,10,namesilo,,,22/08/2026 05:19
+bd0952f4-4e52-4a2b-8467-8a5297e2db32,contraction.yoga,available,32.49,32.49,high,low,11,namesilo,,,29/09/2026 10:10
+3d0e38e9-d79d-4918-8f6f-f1906cbb6b26,wrecking.yoga,available,33.98,45.98,medium,low,8,namecheap,,,29/09/2026 19:31
+28e11b9e-9957-44fd-8dd8-6594bff475ef,unfriendly.yoga,available,32.49,32.49,high,low,10,namesilo,,,22/08/2026 05:19
 d4511a6e-5787-4645-8c6b-5e50c2ba3a98,catches.yoga,available,26.97,26.97,medium,low,7,dynadot,,,28/09/2026 04:27
 75b75526-875b-47f0-99d4-084a150a4aab,populations.yoga,available,33.98,45.98,medium,low,11,namecheap,,,18/09/2026 17:58
 53e53564-38c8-4b91-9a7d-6d07daaf75c6,causally.yoga,available,32.49,32.49,medium,low,8,namesilo,,,14/09/2026 06:01
@@ -502,6 +539,7 @@ a451c3da-9674-46bb-941c-722937ccf99d,clogging.yoga,available,32.49,32.49,high,lo
 5f9e6391-e512-45ad-89c3-f814af0478cb,apheresis.yoga,available,32.49,32.49,medium,low,9,namesilo,,,19/09/2026 16:49
 49ae9d95-6f78-4a88-8758-07b20a1be186,dogfish.yoga,available,33.98,45.98,high,low,7,namecheap,,,18/09/2026 21:24
 c52c1e16-5f16-4b52-9383-9d5d3b7d0ade,livable.yoga,available,32.49,32.49,high,low,7,namesilo,,,24/08/2026 07:42
+fc5a651d-d0a7-4b3f-bb80-3ceab2f88c4e,tampa.yoga,premium,83,26.08,high,low,5,spaceship,,,29/09/2026 20:28
 41533e21-f957-4540-8dfc-c2d888cbc24b,king.yoga,resell,,,high,medium,4,"GoDaddy.com, LLC",26/08/2020 19:01,26/08/2027 19:01,28/09/2026 23:59
 cfa55ac8-fcc4-48fd-abfa-4c5f3308365d,owns.yoga,available,32.49,32.49,medium,low,4,namesilo,,,18/09/2026 16:37
 22bdc6b7-103b-4af6-b832-5ff069e58479,usance.yoga,available,33.98,45.98,high,low,6,namecheap,,,13/08/2026 12:25
@@ -514,13 +552,17 @@ dbf51c90-6ae9-4913-878c-59d82e5e07d1,stentorian.yoga,available,33.98,45.98,mediu
 65952a5f-a1f7-48f7-b350-74db5bf84fe1,vindictive.yoga,available,32.49,32.49,medium,low,10,namesilo,,,14/08/2026 04:21
 a3d4b123-9acc-4c6b-8dfe-a2b0cbd6c3db,caption.yoga,available,32.49,32.49,high,low,7,namesilo,,,24/09/2026 12:41
 dd6a0ebe-366a-4fda-80eb-1da8cd0a84eb,foreshadow.yoga,available,33.98,45.98,high,low,10,namecheap,,,21/09/2026 03:32
+a73c6aaf-b345-4cea-a72a-7dc795270ebc,hana.yoga,available,32.49,32.49,high,low,4,namesilo,,,29/09/2026 22:11
 9d711f88-f6f2-4016-b865-3543f6cd6534,error.yoga,available,46.99,46.99,high,low,5,name.com,,,24/09/2026 16:56
 1de3c0d0-07f4-45c2-9b20-9b25230b3ceb,offprint.yoga,available,32.49,32.49,medium,low,8,namesilo,,,10/09/2026 03:57
+3a11c224-2141-4fb8-acff-074d4770ed72,rattlesnake.yoga,available,26.26,26.26,high,low,11,porkbun,,,30/09/2026 03:33
+aee2b447-ef39-4416-9733-79790be134b9,varsity.yoga,available,26.08,26.08,high,medium,7,spaceship,,,30/09/2026 01:38
 9267e419-93fd-428c-a0e1-0a5cd0b01d7e,very.yoga,available,32.49,32.49,high,low,4,namesilo,,,27/09/2026 09:52
+05226d44-b1ee-4bd4-b65d-f6b3d105daf1,aimed.yoga,available,32.49,32.49,high,low,5,namesilo,,,29/09/2026 10:43
 fbaf5ca8-754b-4076-ba46-7fe76d5348c3,hometown.yoga,available,32.49,32.49,high,low,8,namesilo,,,28/09/2026 10:06
 112c9c72-6347-4bba-a267-a1be793e9d65,bohrium.yoga,available,32.49,32.49,medium,low,7,namesilo,,,20/09/2026 22:07
-2d3ec709-7159-4d07-96f0-b41f5700e5c6,haywood.yoga,available,32.49,32.49,medium,low,7,namesilo,,,23/09/2026 14:07
-66e8f93c-b8d3-4f01-a012-0e721660b39f,highschool.yoga,available,32.49,32.49,high,low,10,namesilo,,,
+2d3ec709-7159-4d07-96f0-b41f5700e5c6,haywood.yoga,available,32.49,32.49,high,low,7,namesilo,,,23/09/2026 14:07
+66e8f93c-b8d3-4f01-a012-0e721660b39f,highschool.yoga,available,26.08,26.08,high,low,10,spaceship,,,29/09/2026 22:46
 f0ba1e67-4396-483d-b114-79b91894f050,touching.yoga,available,32.49,32.49,high,low,8,namesilo,,,
 2043b1a8-4f01-42b6-a315-4f96c262aad6,philia.yoga,available,32.49,32.49,high,low,6,namesilo,,,17/09/2026 14:21
 7001130f-6808-4bf1-b9be-dc011eff89ef,pallor.yoga,available,32.49,32.49,medium,low,6,namesilo,,,17/09/2026 01:07
@@ -539,6 +581,7 @@ d6eb7f16-8912-40e6-85e5-0644ba6c30a2,bohme.yoga,available,32.49,32.49,medium,low
 3725794b-da7f-43ed-b8b4-c34cd477592c,pupillary.yoga,available,32.49,32.49,high,medium,9,namesilo,,,09/09/2026 06:08
 32769487-81c4-4761-8fa3-f568728ca31a,artful.yoga,available,32.49,32.49,high,low,6,namesilo,,,06/08/2026 22:44
 6ad09a33-c748-47fd-97cc-e6b956ef6971,precambrian.yoga,available,26.08,26.08,medium,low,11,spaceship,,,29/09/2026 04:02
+71ad1c00-587a-4d9c-b429-a47b541a8b95,ordeal.yoga,available,32.49,32.49,high,low,6,namesilo,,,29/09/2026 07:47
 49e3e527-5cf8-4027-a187-78fc4ece0ebb,butchery.yoga,available,32.49,32.49,medium,low,8,namesilo,,,16/09/2026 14:16
 bc89d6d7-584c-4be3-9a83-1b1a83860b12,crowe.yoga,available,26.08,26.08,medium,low,5,spaceship,,,28/09/2026 12:13
 92856c46-2b59-48f0-a4a4-1223b63a703b,rhenish.yoga,available,32.49,32.49,medium,low,7,namesilo,,,09/09/2026 16:29
@@ -546,12 +589,14 @@ fe7c9932-9942-4eb5-ab06-4ffa13885195,aranyaka.yoga,available,32.49,32.49,medium,
 4cd65966-ec37-4e80-9c10-417f297fb0a4,alongside.yoga,available,33.98,45.98,high,low,9,namecheap,,,13/09/2026 19:12
 d0203b54-f99d-49eb-aaa3-b267c6d8f9be,scots.yoga,available,32.49,32.49,high,low,5,namesilo,,,09/09/2026 23:33
 d6895f83-ff97-42b4-be96-aa313c696cc8,tease.yoga,available,32.49,32.49,high,low,5,namesilo,,,11/09/2026 09:59
+b7ada668-a164-4d38-bb80-98d376d07d48,tits.yoga,premium,,,high,low,4,,,,29/09/2026 21:14
 3d557fc1-4f70-4233-b9fb-42ea9ecca09c,azotic.yoga,available,32.49,32.49,medium,low,6,namesilo,,,08/08/2026 02:53
 37ec0e74-2153-4caf-ae70-503ff8d06000,ateles.yoga,available,33.98,45.98,medium,low,6,namecheap,,,20/09/2026 20:01
 709859e4-6408-4b0e-a1fb-e7c51c2eb79f,grooved.yoga,available,32.49,32.49,medium,low,7,namesilo,,,20/08/2026 20:17
-01498fe1-6a2a-4aef-8681-d43a19f8c9c3,inertial.yoga,available,32.49,32.49,medium,low,8,namesilo,,,22/08/2026 03:59
+01498fe1-6a2a-4aef-8681-d43a19f8c9c3,inertial.yoga,available,32.49,32.49,high,low,8,namesilo,,,22/08/2026 03:59
+e6846b2e-d1d5-49e6-9d13-71b08899adb5,quake.yoga,available,32.49,32.49,high,low,5,namesilo,,,29/09/2026 18:44
 b74be857-9926-4dc3-ae21-5a530d774f97,visitors.yoga,available,32.49,32.49,high,low,8,namesilo,,,18/09/2026 16:57
-c43fb03e-1e7c-4261-bf2d-24a463ad14ad,agonizing.yoga,available,32.49,32.49,medium,low,9,namesilo,,,
+c43fb03e-1e7c-4261-bf2d-24a463ad14ad,agonizing.yoga,available,32.49,32.49,high,low,9,namesilo,,,
 11421ebd-72ad-46c9-ba7b-405aa3527cb8,yielding.yoga,available,32.49,32.49,high,low,8,namesilo,,,13/09/2026 14:36
 17f2cf58-6121-4d01-8e4c-1fe044140b56,fourteenth.yoga,available,,,high,low,10,,,,
 894e4bde-f258-4177-912e-60dcf5d52c00,flourishing.yoga,available,45.98,,high,low,11,namecheap,,,
@@ -562,9 +607,11 @@ b8cff6f0-2038-4f84-8bac-67175eaa4a4e,cpa.yoga,premium,,,high,low,3,,,,28/09/2026
 d9233b02-77c8-488c-b21b-630c0a44f721,amsonia.yoga,available,32.49,32.49,medium,low,7,namesilo,,,19/09/2026 00:00
 cb1f866e-17d9-49af-b47e-0d713c9b231c,jurisdiction.yoga,available,33.98,45.98,high,low,12,namecheap,,,28/09/2026 22:34
 a005c34e-8cab-41d0-a6f2-afaaac84da1a,pagan.yoga,available,32.49,32.49,high,low,5,namesilo,,,18/08/2026 21:57
+5315a77d-489d-45d7-ae33-b250c53d3d99,peaked.yoga,available,26.26,26.26,high,low,6,porkbun,,,29/09/2026 21:11
 80cdabd0-f6bd-48dc-baaa-a51772a7c3c8,warm.yoga,premium,242,29.5,high,low,4,namesilo,,,21/09/2026 21:51
 e5a54a19-daf5-4977-b054-c30ad3c486e9,tomas.yoga,available,26.08,26.08,medium,low,5,spaceship,,,28/09/2026 04:37
-d79c1750-60c3-4d2b-b7a3-4756a7016675,boer.yoga,available,32.49,32.49,medium,low,4,namesilo,,,
+a92fedd5-b6c5-4326-9b0d-3c98cf4e61b7,adventurous.yoga,available,25.2,25.2,high,low,11,cloudflare,,,29/09/2026 14:20
+d79c1750-60c3-4d2b-b7a3-4756a7016675,boer.yoga,available,32.49,32.49,high,low,4,namesilo,,,
 7bf609bd-47fa-4859-a38b-7a00279dfe7f,clapping.yoga,available,33.98,45.98,high,low,8,namecheap,,,19/09/2026 20:57
 0afb7948-ad19-415a-af96-adb413fb1d62,freakish.yoga,available,32.49,32.49,high,low,8,namesilo,,,10/08/2026 09:56
 e257be45-041e-48d4-9001-c765cda4d7eb,endogamous.yoga,available,32.49,32.49,medium,low,10,namesilo,,,17/08/2026 01:10
@@ -576,6 +623,7 @@ bf856d4a-89fc-4622-a335-81db2f052135,affray.yoga,available,32.49,32.49,medium,lo
 4690c405-1797-4be1-b2aa-ffdab20de896,residue.yoga,available,32.49,32.49,high,low,7,namesilo,,,09/09/2026 15:05
 63e110de-d9b2-4b33-ae64-4aedde114b6b,temple.yoga,resell,,,high,high,6,"GoDaddy.com, LLC",26/08/2020 18:54,26/08/2027 18:54,26/09/2026 09:33
 a02cb3b6-6480-49e6-beb7-570c1b8d3e14,engrossing.yoga,available,32.49,32.49,high,low,10,namesilo,,,
+9501b3f5-736a-487a-a317-d5cfaab7a7bf,poles.yoga,available,25.2,25.2,medium,low,5,cloudflare,,,29/09/2026 10:31
 4af6f1d8-cb26-4121-9732-a4d57ebc9e73,sunken.yoga,available,32.49,32.49,medium,low,6,namesilo,,,13/08/2026 22:55
 a96600c7-ef53-4703-aceb-d4917b03a176,undeniably.yoga,available,33.98,45.98,medium,low,10,namecheap,,,16/09/2026 09:52
 287e2acd-e1a5-4e75-b936-4579673670a4,rarer.yoga,available,32.49,32.49,medium,low,5,namesilo,,,20/09/2026 08:12
@@ -590,15 +638,17 @@ c50a518f-fdea-4430-a6c0-0521c20d64d8,dried.yoga,available,33.98,45.98,high,low,5
 29feb257-2a44-457d-8414-85d2529c65d5,weedy.yoga,available,32.49,32.49,medium,low,5,namesilo,,,09/09/2026 23:44
 f988d3b8-2997-4537-a0c7-ca22763c742f,oversewn.yoga,available,32.49,32.49,medium,low,8,namesilo,,,04/09/2026 21:48
 ac713574-94a9-4176-b5fa-ef41272113c1,malar.yoga,available,32.49,32.49,medium,low,5,namesilo,,,13/09/2026 15:43
+f6521e42-8264-46ea-93fb-57fa2d25f4f1,donner.yoga,available,26.26,26.26,medium,low,6,porkbun,,,29/09/2026 20:47
 5a248016-6e2f-4a73-9661-20bd204bfec6,harshly.yoga,available,32.49,32.49,medium,low,7,namesilo,,,14/09/2026 22:08
-b7e1e7ce-9b30-4f7d-9265-4cee3a1b7a30,kilometer.yoga,available,32.49,32.49,high,low,9,namesilo,,,
+b7e1e7ce-9b30-4f7d-9265-4cee3a1b7a30,kilometer.yoga,available,26.26,26.26,high,low,9,porkbun,,,30/09/2026 01:33
 e2d8ccef-63f8-4d0e-a8e5-cc8387ca7718,fumbling.yoga,available,32.49,32.49,medium,low,8,namesilo,,,11/08/2026 10:05
 9caa747c-bd75-4f33-a5d7-3223cf9a8f34,unblushing.yoga,available,32.49,32.49,medium,low,10,namesilo,,,10/09/2026 05:55
-5a8b9b05-c811-4ee2-8f97-0a2532b082ff,them.yoga,available,,,medium,low,4,,,,
+5a8b9b05-c811-4ee2-8f97-0a2532b082ff,them.yoga,available,,,high,low,4,,,,
 a41ec75d-42c7-47ce-bac1-15f41aeef117,entering.yoga,available,32.49,32.49,high,low,8,namesilo,,,22/08/2026 01:48
 78dad15a-0f59-44f2-8443-dcc558cad941,makes.yoga,available,32.49,32.49,high,low,5,namesilo,,,16/09/2026 09:30
 2d721e6a-3048-4746-a04e-d66b41a7629f,abide.yoga,resell,,,high,low,5,West263 International Limited,17/03/2026 21:55,17/03/2027 21:55,29/09/2026 04:34
 4efb1243-4e54-4676-94b5-48de01558f8a,batfish.yoga,available,32.49,32.49,medium,low,7,namesilo,,,22/09/2026 13:14
+55f198b1-7ddd-4f6b-93ac-f0b4a307199d,mak.yoga,premium,2070.2,26.08,high,low,3,spaceship,,,29/09/2026 13:22
 4fc7aa0c-ffab-4616-b84d-dbad687bb704,electronics.yoga,available,32.49,32.49,high,low,11,namesilo,,,28/09/2026 17:13
 1b67d813-d19a-4dc8-bb1b-557e10bfe96c,dryers.yoga,available,32.49,32.49,medium,low,6,namesilo,,,21/09/2026 07:40
 7ec7e858-fcd9-4283-bd0a-978e12cd9807,uprightly.yoga,available,32.49,32.49,medium,low,9,namesilo,,,15/09/2026 01:06
@@ -609,11 +659,11 @@ f8f1ab87-7526-4b4b-bc51-e5ff4023725e,blewit.yoga,available,33.98,45.98,low,low,7
 8af1bc89-def3-4593-89f3-ffc8b3c1386d,panicked.yoga,available,32.49,32.49,medium,low,8,namesilo,,,05/09/2026 00:57
 07d67ad1-4e5f-4a68-b088-3d63bf227f27,puffed.yoga,available,32.49,32.49,high,low,6,namesilo,,,09/09/2026 05:37
 092f4903-ee95-493a-9902-84040d84ade9,bedclothes.yoga,available,32.49,32.49,high,low,10,namesilo,,,22/09/2026 22:48
-2fa831e4-c840-47ca-8c28-b0b55fb0ecb7,testicle.yoga,available,32.49,32.49,medium,low,8,namesilo,,,21/09/2026 22:59
+2fa831e4-c840-47ca-8c28-b0b55fb0ecb7,testicle.yoga,available,32.49,32.49,high,low,8,namesilo,,,21/09/2026 22:59
 a67bd951-3fb6-4470-be1c-dd8f54bd8488,object.yoga,available,33.98,45.98,high,low,6,namecheap,,,19/09/2026 05:21
 1212bf4a-a688-4951-ab4e-6171c5aab60b,scoring.yoga,available,32.49,32.49,high,low,7,namesilo,,,29/09/2026 02:05
 b1241267-b72a-4a2b-ae94-9a36ee1e31cd,ziegler.yoga,available,33.98,45.98,high,low,7,namecheap,,,28/09/2026 19:36
-50662a1d-fb14-4312-83c2-db4320d4aba4,frances.yoga,available,32.49,32.49,medium,low,7,namesilo,,,28/09/2026 11:53
+50662a1d-fb14-4312-83c2-db4320d4aba4,frances.yoga,available,32.49,32.49,high,low,7,namesilo,,,28/09/2026 11:53
 1fa72bbd-ed36-48c6-8ebd-12ffc2c47fe1,gastropod.yoga,available,32.49,32.49,medium,low,9,namesilo,,,12/09/2026 14:04
 8102000d-b251-4f09-9922-b7349ce75c8f,marginal.yoga,available,32.49,32.49,high,low,8,namesilo,,,23/09/2026 00:04
 7fee9f84-d969-48f2-947c-a0a40cc45dd2,someday.yoga,available,26.08,26.08,high,low,7,spaceship,,,28/09/2026 22:28
@@ -621,7 +671,7 @@ b1241267-b72a-4a2b-ae94-9a36ee1e31cd,ziegler.yoga,available,33.98,45.98,high,low
 020c369b-6e79-4a48-b99d-434ba49b77a7,henley.yoga,available,32.49,32.49,high,low,6,namesilo,,,28/09/2026 03:36
 f5e7b057-5218-463b-b188-fce74585388a,marred.yoga,available,32.49,32.49,medium,low,6,namesilo,,,24/08/2026 16:28
 57d33f1c-a5c9-4e02-80ca-a7d974c39f47,temporarily.yoga,available,32.49,32.49,medium,low,11,namesilo,,,
-5994f9a2-5f22-4e00-8827-d9033e80e6dd,degenerate.yoga,available,46.99,46.99,medium,low,10,name.com,,,13/08/2026 20:16
+5994f9a2-5f22-4e00-8827-d9033e80e6dd,degenerate.yoga,available,46.99,46.99,high,low,10,name.com,,,13/08/2026 20:16
 87704485-6528-4d11-91c0-e73fe317ec60,grainy.yoga,available,32.49,32.49,medium,low,6,namesilo,,,12/08/2026 14:00
 69129ad5-b569-428a-83b3-bb2933165a25,flowing.yoga,premium,96,29.5,high,low,7,namesilo,,,18/08/2026 09:11
 c022c4d5-af8d-4fb3-9316-0becfccd5c03,truman.yoga,available,26.97,26.97,medium,low,6,dynadot,,,28/09/2026 10:00
@@ -629,13 +679,14 @@ fe408356-6a5b-4b52-a8e2-13d38f8d84e1,apsu.yoga,available,33.98,45.98,medium,low,
 9844013e-6607-4706-8860-b8940426b531,unpleasant.yoga,available,32.49,32.49,medium,low,10,namesilo,,,12/09/2026 16:58
 bf26d39c-ce08-4744-a8ac-a7b0e38bfa68,quantity.yoga,available,32.49,32.49,high,low,8,namesilo,,,
 3444d71a-00cb-405d-994e-eb0521806016,amine.yoga,available,32.49,32.49,high,low,5,namesilo,,,18/09/2026 21:41
-e9f3dac8-d881-4d1b-96a6-5377c01b73af,ugandan.yoga,available,32.49,32.49,medium,low,7,namesilo,,,11/09/2026 22:40
+e9f3dac8-d881-4d1b-96a6-5377c01b73af,ugandan.yoga,available,32.49,32.49,high,low,7,namesilo,,,11/09/2026 22:40
 c43ebb9b-6f7c-437c-a32e-4a03f6bd624b,exams.yoga,available,32.49,32.49,medium,low,5,namesilo,,,28/09/2026 23:32
 89e175e1-56cb-41eb-91e7-6fc18dde39c3,regulation.yoga,available,32.49,32.49,high,low,10,namesilo,,,09/09/2026 13:07
 e19f19dc-fa1f-4e10-b994-eab97d3e2bc7,ferocious.yoga,available,32.49,32.49,medium,low,9,namesilo,,,18/08/2026 02:05
 c4bbd2ee-b66b-4382-b292-fed1519be3f5,inverted.yoga,available,32.49,32.49,high,low,8,namesilo,,,
 206fc5c9-2eaf-4f12-b21f-4fb5618608a0,alkane.yoga,available,32.49,32.49,medium,low,6,namesilo,,,18/09/2026 08:24
 3266801f-9f2f-4488-804a-67fdfea7c878,earning.yoga,available,32.49,32.49,medium,low,7,namesilo,,,28/09/2026 13:27
+8f8d808b-6939-4643-a86c-be528b8c3673,footprint.yoga,available,25.2,25.2,high,low,9,cloudflare,,,29/09/2026 12:23
 8a64927b-445c-4545-8ca5-529fe1001a41,guarded.yoga,available,33.98,45.98,high,low,7,namecheap,,,20/08/2026 20:41
 84428376-d8c3-45bc-96c8-cabe1328a365,dean.yoga,available,32.49,32.49,high,low,4,namesilo,,,27/09/2026 03:39
 75f9f235-7597-4f62-82b7-c7cd3a05982e,wastes.yoga,available,32.49,32.49,medium,low,6,namesilo,,,17/09/2026 07:45
@@ -682,6 +733,7 @@ d13e556b-5360-43de-9ebf-1f3ae85026d7,raiding.yoga,available,32.49,32.49,medium,l
 946b22d0-28a9-4f45-8be3-45cd7c279001,renascent.yoga,available,32.49,32.49,high,low,9,namesilo,,,09/09/2026 13:55
 7bb843bf-7736-4aa4-a2d8-36ea0b695619,thither.yoga,available,32.49,32.49,medium,low,7,namesilo,,,16/09/2026 08:57
 340ebc62-a594-42c6-9d85-ab3d282f45f5,bellows.yoga,available,32.49,32.49,high,low,7,namesilo,,,23/09/2026 06:26
+7d80111f-3749-4eea-819c-6760877125bc,workload.yoga,available,26.08,26.08,high,low,8,spaceship,,,30/09/2026 03:09
 b9f595e9-734f-4653-8b1d-fe99b253fea6,cruel.yoga,available,32.49,32.49,high,low,5,namesilo,,,22/09/2026 17:21
 1b434973-4f83-457e-88ad-fac6a8e886a2,retain.yoga,available,32.49,32.49,high,low,6,namesilo,,,
 749274fe-b88a-4486-9fac-c4000f4bf464,consistent.yoga,available,32.49,32.49,high,low,10,namesilo,,,12/08/2026 16:01
@@ -702,6 +754,7 @@ fc41259f-a76f-4529-a03a-12ce6cde1cd9,behavioral.yoga,available,32.49,32.49,mediu
 ffa28612-703c-4a96-aa23-6e6c5040bd48,factually.yoga,available,32.49,32.49,medium,low,9,namesilo,,,14/09/2026 17:27
 01d5f444-4f2c-4bfd-8295-099139299ac1,acorea.yoga,available,32.49,32.49,medium,low,6,namesilo,,,17/09/2026 02:12
 42e94c74-94db-469f-9aab-9e22e4424b10,lxxiv.yoga,available,33.98,45.98,medium,low,5,namecheap,,,
+fa8c92b0-72b0-418f-be7b-c237fe8cb3e1,traditions.yoga,available,32.49,32.49,medium,low,10,namesilo,,,29/09/2026 10:32
 25459f34-aa8b-4c20-9cf8-e74be54c6c1b,facility.yoga,available,26.08,26.08,high,low,8,spaceship,,,28/09/2026 18:28
 f07a49d0-d562-4eb4-a18a-f1f042ea2f11,bench.yoga,premium,96,29.5,high,low,5,namesilo,,,23/09/2026 07:36
 0f52ee70-3b26-446c-95e4-e76c63661e51,bruges.yoga,available,33.98,45.98,medium,low,6,namecheap,,,29/09/2026 06:10
@@ -714,9 +767,9 @@ c1e980e2-ac50-4a03-be88-4ef55e792f69,dis.yoga,premium,47.2,29.5,high,low,3,names
 2ce3e631-2bc0-448b-a0b9-ad6eabdebc67,longest.yoga,available,26.08,26.08,medium,low,7,spaceship,,,28/09/2026 16:14
 b51d2d7e-4415-4b8f-95d6-1b0ed25bf5f8,gumbo.yoga,available,32.49,32.49,high,low,5,namesilo,,,16/09/2026 15:04
 053239aa-a736-4b26-ba4f-96c20ce6e313,resupine.yoga,available,32.49,32.49,medium,low,8,namesilo,,,09/09/2026 15:30
-74033244-f1c4-432a-a350-844ae59efb1a,voss.yoga,available,32.49,32.49,medium,low,4,namesilo,,,29/09/2026 03:14
+74033244-f1c4-432a-a350-844ae59efb1a,voss.yoga,available,32.49,32.49,high,low,4,namesilo,,,29/09/2026 03:14
 be3f847a-f830-4b73-9fa8-28a706a2e9e6,crested.yoga,available,32.49,32.49,high,low,7,namesilo,,,13/08/2026 06:20
-fd8f972b-2f7f-4dd6-8234-06edccd894da,centimetre.yoga,available,32.49,32.49,medium,low,10,namesilo,,,24/09/2026 13:35
+fd8f972b-2f7f-4dd6-8234-06edccd894da,centimetre.yoga,available,32.49,32.49,high,low,10,namesilo,,,24/09/2026 13:35
 a421f7ca-a7f3-4aa4-8744-0d32367c88a2,multiplication.yoga,available,32.49,32.49,medium,low,14,namesilo,,,
 f3e1bc41-0625-4f15-bd96-2c8afdc36097,fusty.yoga,available,32.49,32.49,low,low,5,namesilo,,,18/08/2026 16:42
 31d60493-9174-4d3f-9815-ab88f2614d76,buckingham.yoga,available,32.49,32.49,high,low,10,namesilo,,,25/09/2026 12:25
@@ -726,18 +779,21 @@ f7c729bb-3755-4e27-aa4e-2fe7a9abf93f,frill.yoga,available,32.49,32.49,high,low,5
 558f53eb-a64a-40e7-9cc4-2b71f5bf8611,federated.yoga,available,32.49,32.49,high,low,9,namesilo,,,18/08/2026 00:38
 42fee3fc-c096-49de-9f3a-2531b225a296,afterimage.yoga,available,32.49,32.49,high,low,10,namesilo,,,17/09/2026 15:42
 2d6acc19-b4d8-4fcb-8568-52d87878e248,disturbance.yoga,available,32.49,32.49,medium,low,11,namesilo,,,28/09/2026 12:34
+ab400eb0-3892-413f-9370-335f3338b075,exhibits.yoga,available,32.49,32.49,medium,low,8,namesilo,,,30/09/2026 00:23
 8f861515-e68e-4b59-9d2c-780ced72b577,inheriting.yoga,available,32.49,32.49,medium,low,10,namesilo,,,22/08/2026 05:04
 d868b4dc-b986-418b-83ae-62beef9dc9bc,wheedle.yoga,available,32.49,32.49,medium,low,7,namesilo,,,24/09/2026 04:07
 b1d9dcc0-02c3-4f7f-b5cc-eb3072c8c629,badness.yoga,available,32.49,32.49,medium,low,7,namesilo,,,08/08/2026 07:23
 b46dd712-3d9c-42f2-9a95-82b6fb3a11f9,khaki.yoga,available,32.49,32.49,high,low,5,namesilo,,,22/08/2026 15:47
-f2c52fb0-7e05-4167-b466-bea6f6d0fdba,basilica.yoga,available,32.49,32.49,medium,low,8,namesilo,,,22/09/2026 10:49
+f5eb3cde-c1df-4251-865b-e3fcdda9656c,complimentary.yoga,available,26.97,26.97,high,low,13,dynadot,,,30/09/2026 04:02
+f2c52fb0-7e05-4167-b466-bea6f6d0fdba,basilica.yoga,available,32.49,32.49,high,low,8,namesilo,,,22/09/2026 10:49
 f480e574-ee5f-454e-919c-89a3f64aefb6,journeyman.yoga,available,32.49,32.49,medium,low,10,namesilo,,,28/09/2026 22:18
 7bc45320-f39c-4906-8eb8-93c7f14b13e0,selma.yoga,available,26.26,26.26,high,low,5,porkbun,,,28/09/2026 03:04
 e660de01-b392-4078-a235-384adfac2161,blitt.yoga,available,32.49,32.49,medium,low,5,namesilo,,,21/09/2026 14:13
 8a00ea59-ba8b-409e-b655-289011674b00,preparing.yoga,available,32.49,32.49,high,low,9,namesilo,,,27/09/2026 06:40
 1585424c-9520-4d78-b365-d68068913acf,language.yoga,available,32.49,32.49,high,low,8,namesilo,,,25/09/2026 15:54
 020c2175-ff60-4ed3-8757-c658c72c84f0,amalgamate.yoga,available,33.98,45.98,high,low,10,namecheap,,,22/09/2026 03:01
-4e4f6192-360a-41db-aaf9-3e775c14affd,washing.yoga,available,32.49,32.49,high,low,7,namesilo,,,
+5254f40b-0d5a-4f47-979f-615c4918cad2,injunction.yoga,available,26.08,26.08,medium,low,10,spaceship,,,29/09/2026 18:16
+4e4f6192-360a-41db-aaf9-3e775c14affd,washing.yoga,available,1.99,49.99,high,low,7,godaddy,,,30/09/2026 02:11
 9199d7e1-68c1-42a3-80f0-73bb8d47e78c,designate.yoga,available,32.49,32.49,high,low,9,namesilo,,,14/08/2026 03:42
 e0c28e62-0fec-40c8-9089-781c91acdbbe,bricks.yoga,premium,242,29.5,high,low,6,namesilo,,,
 f76e702e-5eb8-4d70-b8a7-50da95fdcb47,didrikson.yoga,available,33.98,45.98,medium,low,9,namecheap,,,21/09/2026 12:34
@@ -748,21 +804,25 @@ d61d86fc-3f49-4b33-a037-fb2430ddff1c,undersexed.yoga,available,32.49,32.49,mediu
 06e479ea-3c55-40e2-8a12-c1a5d3473003,kipling.yoga,available,32.49,32.49,high,medium,7,namesilo,,,29/09/2026 01:27
 10b47bb7-f132-459e-b7eb-55b17471db0d,slant.yoga,available,32.49,32.49,high,low,5,namesilo,,,22/08/2026 22:07
 d8879e28-b565-4244-a9d5-c83b93093598,deception.yoga,available,32.49,32.49,high,low,9,namesilo,,,24/09/2026 17:22
+0fdf065f-4290-49e3-9da7-3a5170532a39,sulawesi.yoga,available,32.49,32.49,medium,low,8,namesilo,,,30/09/2026 01:01
 2e64df51-b0d6-434b-bca9-6b889b43d23f,anapurna.yoga,available,32.49,32.49,medium,low,8,namesilo,,,19/09/2026 02:22
 0a153c28-46fa-4204-ae94-9e632513aece,birthmark.yoga,available,33.98,45.98,high,low,9,namecheap,,,23/09/2026 21:13
 e5f33c46-28c2-40d4-b406-5ed9e3c6db54,ascendable.yoga,available,32.49,32.49,medium,low,10,namesilo,,,07/08/2026 00:35
 88a22d71-2c4d-4e7b-8e40-1a8e505f5db6,harriman.yoga,available,32.49,32.49,medium,low,8,namesilo,,,21/09/2026 09:11
-061aea91-d32c-4a32-8dc6-36faa7067ea6,fledgling.yoga,available,32.49,32.49,medium,low,9,namesilo,,,11/08/2026 14:45
+c4e2153d-502d-4fe5-a717-603d22a4f3f2,logging.yoga,available,26.08,26.08,high,low,7,spaceship,,,29/09/2026 19:34
+061aea91-d32c-4a32-8dc6-36faa7067ea6,fledgling.yoga,available,32.49,32.49,high,low,9,namesilo,,,11/08/2026 14:45
 b2bc9f8b-19c3-4b4f-aa88-08d95799ad8d,empire.yoga,available,32.49,32.49,high,medium,6,namesilo,,,25/09/2026 05:34
-34e04415-4a01-4e7b-a742-ceb2326f60fc,usda.yoga,available,,,medium,low,4,,,,17/09/2026 19:25
+34e04415-4a01-4e7b-a742-ceb2326f60fc,usda.yoga,available,,,high,low,4,,,,17/09/2026 19:25
 ddfc4051-fdf1-4053-9832-42fa8f34479c,aesthesia.yoga,available,33.98,45.98,medium,low,9,namecheap,,,17/09/2026 13:26
 d7ed8afa-b6ce-428f-81c2-16f29f66f7fb,forties.yoga,available,32.49,32.49,medium,low,7,namesilo,,,16/09/2026 12:06
 69d1cd28-2c4d-4afb-a9ee-a1e279b1fb83,wooded.yoga,available,32.49,32.49,high,low,6,namesilo,,,13/09/2026 13:11
 97ede5a7-4661-4336-bbdc-703c5c46960c,emulous.yoga,available,33.98,45.98,medium,low,7,namecheap,,,16/08/2026 21:03
 953ff421-4393-4673-a1d7-abb56b7032dc,doug.yoga,available,32.49,32.49,high,low,4,namesilo,,,25/09/2026 13:24
+addfc7e3-3193-4984-89fb-bf777b20eee2,addison.yoga,available,32.49,32.49,high,low,7,namesilo,,,29/09/2026 23:23
 af11942d-4ee5-4440-9203-14ebfccaa6d5,agrigento.yoga,available,32.49,32.49,medium,low,9,namesilo,,,17/09/2026 02:44
-399fbb11-da1d-4a83-9475-5ba1f9ae653e,unmanned.yoga,available,32.49,32.49,medium,low,8,namesilo,,,09/09/2026 13:50
+399fbb11-da1d-4a83-9475-5ba1f9ae653e,unmanned.yoga,available,32.49,32.49,high,low,8,namesilo,,,09/09/2026 13:50
 e1ffb5a6-cbf9-47da-9da4-77b8dea49b45,ponders.yoga,available,32.49,32.49,medium,low,7,namesilo,,,18/09/2026 02:06
+58068f59-9b9d-40ed-82c1-fd2a2654247b,pizarro.yoga,available,32.49,32.49,medium,low,7,namesilo,,,30/09/2026 01:41
 1fa2b31e-b117-41d6-95c3-b507ba131d33,downriver.yoga,available,33.98,45.98,high,low,9,namecheap,,,14/08/2026 18:01
 dd06b52d-f7a7-4885-b7d9-3406c96d150e,ciao.yoga,available,32.49,32.49,high,low,4,namesilo,,,18/09/2026 13:10
 6b2b54a8-5149-4724-b131-82dfcf7ee0bb,cart.yoga,available,32.49,32.49,high,low,4,namesilo,,,27/09/2026 12:16
@@ -770,9 +830,11 @@ dd06b52d-f7a7-4885-b7d9-3406c96d150e,ciao.yoga,available,32.49,32.49,high,low,4,
 007e5f12-620e-4f3f-baf8-62bf89d4da8b,mls.yoga,premium,44,26.97,high,low,3,dynadot,,,28/09/2026 02:21
 9dd39a88-2aba-4e76-ba5c-1e125730a6dd,aikido.yoga,available,33.98,45.98,high,low,6,namecheap,,,17/09/2026 21:02
 5eb98ccf-ba69-4afa-9323-a1a17e1a6bcf,naughty.yoga,premium,50,50,high,low,7,name.com,,,18/08/2026 20:00
+46f03d34-20b7-4dab-8ceb-47ac8a592878,stealth.yoga,available,26.97,26.97,high,low,7,dynadot,,,29/09/2026 08:08
 7a139350-3829-445c-be93-0cc8858a9de3,linelike.yoga,available,32.49,32.49,medium,low,8,namesilo,,,23/08/2026 15:03
 0ec43527-cb40-47b4-94f7-7f025bffc4ad,marietta.yoga,available,26.26,26.26,high,low,8,porkbun,,,28/09/2026 04:02
 73ce8957-afec-4588-9cef-207f32566a3e,fundamental.yoga,available,32.49,32.49,high,low,11,namesilo,,,28/09/2026 11:15
+db2ef0ce-9e7e-44a2-a6be-98d22f324997,scooter.yoga,available,26.97,26.97,high,low,7,dynadot,,,30/09/2026 01:57
 abcce273-1ec3-42eb-83e6-ff44c8bd692b,unspoken.yoga,available,32.49,32.49,high,low,8,namesilo,,,03/09/2026 11:51
 718d000f-91a3-44cf-9b76-963b071f21d3,stale.yoga,available,33.98,45.98,medium,low,5,namecheap,,,10/09/2026 18:24
 cdb7f3e1-2497-4948-ba41-c5978a777cc7,lands.yoga,available,32.49,32.49,medium,low,5,namesilo,,,28/09/2026 04:27
@@ -781,7 +843,8 @@ cdb7f3e1-2497-4948-ba41-c5978a777cc7,lands.yoga,available,32.49,32.49,medium,low
 fd99684a-e63b-422b-9301-79f2e2fda479,paired.yoga,available,32.49,32.49,high,low,6,namesilo,,,04/09/2026 23:11
 ec07bc8a-9170-4521-936c-7bbf9bb6cb36,kurosawa.yoga,available,46.99,46.99,medium,low,8,name.com,,,18/09/2026 00:08
 521f0cfc-3d25-4718-98e5-9a2965bc0f18,volcanic.yoga,available,32.49,32.49,high,low,8,namesilo,,,13/09/2026 06:48
-9a03ffc6-0ac7-409c-891e-cedfa1c648b8,bragg.yoga,available,32.49,32.49,medium,low,5,namesilo,,,25/09/2026 21:58
+9a03ffc6-0ac7-409c-891e-cedfa1c648b8,bragg.yoga,available,32.49,32.49,high,low,5,namesilo,,,25/09/2026 21:58
+a4c7d614-a81a-45d2-841a-aa60cc85dc51,atoms.yoga,available,33.98,45.98,high,low,5,namecheap,,,29/09/2026 16:34
 09887013-eeb2-455d-b4d2-81869ee981eb,buchanan.yoga,available,26.08,26.08,high,low,8,spaceship,,,28/09/2026 01:11
 0fc33fde-6cb3-4a62-b07c-c48ef89f2b76,comforter.yoga,available,32.49,32.49,medium,low,9,namesilo,,,18/09/2026 10:03
 83577b69-a950-4484-9540-f97c5cbfe3d6,murderers.yoga,available,32.49,32.49,low,low,9,namesilo,,,28/09/2026 23:41
@@ -795,28 +858,32 @@ a19dfa5a-67a8-4736-b027-7be20cc72a4b,peccable.yoga,available,32.49,32.49,medium,
 75d12241-66cf-4129-a2da-c1292922bebf,ebook.yoga,available,32.49,32.49,high,low,6,namesilo,,,
 401d2ee7-14e5-442c-93d7-e5154401e250,transexual.yoga,available,33.98,45.98,medium,low,10,namecheap,,,11/09/2026 19:01
 eb9ff158-076d-4002-9ceb-bf62b68ca9e5,optimized.yoga,available,25.2,25.2,high,low,9,cloudflare,,,27/09/2026 22:29
+d41d1db8-6ca5-44be-8604-f1804b780a55,holiness.yoga,available,25.2,25.2,high,low,8,cloudflare,,,29/09/2026 19:10
 60f7381b-8df9-42db-9a5d-4305d3ca40ed,painterly.yoga,available,32.49,32.49,medium,low,9,namesilo,,,04/09/2026 23:08
 9671da53-9c9c-49ce-98f8-8c08bf340a85,antipathy.yoga,available,32.49,32.49,medium,low,9,namesilo,,,19/09/2026 14:53
 f73c64ba-eabe-4517-8da5-4b840ecfa62a,keyrings.yoga,available,33.98,45.98,medium,low,8,namecheap,,,20/09/2026 12:08
 27669d56-8783-41d8-b1bd-cca6d03e97f1,analogy.yoga,available,26.26,26.26,high,low,7,porkbun,,,28/09/2026 21:11
 8a54c3b7-b935-4e8e-9e88-c04227ce8ea2,unhappiness.yoga,available,45.98,,medium,low,11,namecheap,,,
 06997ddf-afe1-482f-9573-465025512507,walsh.yoga,available,26.08,26.08,medium,low,5,spaceship,,,28/09/2026 08:52
+45ab8e2a-1c1a-4067-af4a-b45a5932a588,counterfeit.yoga,available,26.08,26.08,high,low,11,spaceship,,,29/09/2026 08:25
 e9e223aa-7e58-4760-9995-bffeb235a224,steamy.yoga,available,32.49,32.49,medium,low,6,namesilo,,,21/08/2026 14:12
+287b96bc-f2a6-434d-bfb4-c2aedeb73b64,tribes.yoga,available,26.97,26.97,high,low,6,dynadot,,,29/09/2026 11:09
 ba96be12-a584-4325-9475-ebbca0a2c6dc,raunchy.yoga,available,32.49,32.49,medium,low,7,namesilo,,,09/08/2026 09:41
 9c4c5710-56de-40b4-bfce-f23a2571953b,knockabout.yoga,available,32.49,32.49,medium,low,10,namesilo,,,22/08/2026 16:33
 d3c31e64-3b6b-4176-9d10-e7bc2b9ba508,amok.yoga,available,32.49,32.49,high,low,4,namesilo,,,
-d0d497ff-3f85-4774-95bd-9a25e80a6f15,logistical.yoga,available,32.49,32.49,medium,low,10,namesilo,,,24/08/2026 08:54
+d0d497ff-3f85-4774-95bd-9a25e80a6f15,logistical.yoga,available,32.49,32.49,high,low,10,namesilo,,,24/08/2026 08:54
 fcc8c789-f447-414c-8ee5-3f369ac7193d,nicola.yoga,available,32.49,32.49,high,low,6,namesilo,,,28/09/2026 07:47
 562ae47f-2f57-4cad-ad23-b21d03975d7c,joint.yoga,resell,32.49,32.49,high,low,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),15/04/2026 23:44,15/04/2027 23:44,26/09/2026 07:01
 32687ec8-75f3-405f-928d-6c2f6ca88cd8,buzzed.yoga,available,32.49,32.49,high,low,6,namesilo,,,
 9ddbef2d-22ef-47f2-a520-26fbb2588062,inbred.yoga,available,32.49,32.49,medium,low,6,namesilo,,,22/08/2026 00:42
 4be53970-4d82-4562-a2f7-558472e1e164,purge.yoga,available,32.49,32.49,high,medium,5,namesilo,,,09/09/2026 06:19
+15991ce2-9b6d-4a3e-9052-6a420aa71cfe,establishing.yoga,available,26.08,26.08,high,low,12,spaceship,,,29/09/2026 21:01
 b875fda8-30af-41c5-8518-fe91229b42cf,assorted.yoga,available,32.49,32.49,medium,low,8,namesilo,,,07/08/2026 07:25
 137fa748-20e6-49bd-82bc-9be11a3cb1c1,riming.yoga,available,32.49,32.49,medium,low,6,namesilo,,,09/09/2026 16:55
-7b8198e7-b318-40d4-b71f-024e76fb13a4,mecca.yoga,available,32.49,32.49,high,low,5,namesilo,,,
+7b8198e7-b318-40d4-b71f-024e76fb13a4,mecca.yoga,available,33.98,45.98,high,low,5,namecheap,,,30/09/2026 04:13
 27085f6e-66c8-42b0-bdd9-ac181b01bb75,tobago.yoga,available,32.49,32.49,high,low,6,namesilo,,,27/09/2026 05:45
-e5dcccbc-4431-4f46-a31f-35dd28106daf,fellows.yoga,available,32.49,32.49,medium,low,7,namesilo,,,25/09/2026 13:03
-f428eb27-2ed1-42bf-b31e-4e162657a5f8,masses.yoga,available,32.49,32.49,high,low,6,namesilo,,,
+e5dcccbc-4431-4f46-a31f-35dd28106daf,fellows.yoga,available,32.49,32.49,high,low,7,namesilo,,,25/09/2026 13:03
+f428eb27-2ed1-42bf-b31e-4e162657a5f8,masses.yoga,available,26.08,26.08,high,low,6,spaceship,,,29/09/2026 22:51
 cc281d87-86c5-4ca4-9b67-928782d3d2e8,flows.yoga,available,32.49,32.49,high,low,5,namesilo,,,28/09/2026 22:43
 3992fb6c-4e97-419f-8bf1-fc9e73f9883c,atc.yoga,premium,52,32.5,high,low,3,namecheap,,,27/09/2026 07:00
 1f5c8b91-1451-4808-81ce-f4daa4b22fa6,decide.yoga,available,32.49,32.49,high,low,6,namesilo,,,
@@ -830,21 +897,22 @@ fe8c89ca-7178-48e8-85ad-3ba368a6b491,meal.yoga,premium,96,29.5,high,low,4,namesi
 7547af3c-d8ad-4b9b-875e-78054f2c29ca,tonal.yoga,available,32.49,32.49,high,low,5,namesilo,,,11/09/2026 16:59
 4ba7ea55-5a9f-40f3-bfa7-257e9e4ccf30,baptism.yoga,available,32.49,32.49,high,low,7,namesilo,,,22/09/2026 03:27
 c5eb4bed-7891-4148-8594-42febcac03bf,disappointing.yoga,available,26.08,26.08,medium,low,13,spaceship,,,28/09/2026 07:09
-abbe69ee-05ad-4986-a6d8-ec1a83f35e98,ipc.yoga,premium,,,medium,low,3,,,,28/09/2026 15:52
+abbe69ee-05ad-4986-a6d8-ec1a83f35e98,ipc.yoga,premium,,,high,low,3,,,,28/09/2026 15:52
 fed77d33-1eb2-4363-98de-bf667b68a213,sitter.yoga,available,32.49,32.49,high,low,6,namesilo,,,11/08/2026 06:16
 6bca9a4a-3838-4aab-b35e-7ead78387a64,twopenny.yoga,available,32.49,32.49,medium,low,8,namesilo,,,10/09/2026 09:10
 2d8ce699-f71c-4b5d-8a42-cb54c9c6c9dd,fanged.yoga,available,32.49,32.49,medium,low,6,namesilo,,,17/08/2026 22:05
 91620c8b-5a40-4dda-8daa-1f82802e8b30,mold.yoga,available,32.49,32.49,high,low,4,namesilo,,,24/09/2026 15:22
 142b91ef-3896-40e0-bb40-ef85480de14e,beneficial.yoga,available,32.49,32.49,high,low,10,namesilo,,,09/08/2026 14:24
-4e1585cc-9fd6-4b1f-8058-97b2db31e948,crawling.yoga,available,26.08,26.08,medium,low,8,spaceship,,,28/09/2026 05:30
+4e1585cc-9fd6-4b1f-8058-97b2db31e948,crawling.yoga,available,26.08,26.08,high,low,8,spaceship,,,28/09/2026 05:30
 2c916c10-7e29-4004-b0ac-cce51651ae06,inherited.yoga,available,32.49,32.49,high,low,9,namesilo,,,18/08/2026 21:33
-7f745e70-29c6-474c-ba9f-39fc935bafa1,milk.yoga,premium,47.2,29.5,high,low,4,namesilo,,,25/09/2026 05:39
+7f745e70-29c6-474c-ba9f-39fc935bafa1,milk.yoga,premium,41.6,26.08,high,low,4,spaceship,,,29/09/2026 08:29
 95fe192a-0b11-498a-bbdd-07193cbb2ff9,shattering.yoga,available,32.49,32.49,high,medium,10,namesilo,,,10/09/2026 06:06
 ba668555-04b0-4c3a-a84f-47dda2f2644d,ordinance.yoga,available,32.49,32.49,high,low,9,namesilo,,,09/09/2026 13:13
+0b6ccb6b-f9e0-4887-b372-ed4fc4cc889a,virtues.yoga,available,26.26,26.26,high,low,7,porkbun,,,29/09/2026 16:33
 d284321b-fedc-4d00-bb05-364419d0e90d,chronic.yoga,available,32.49,32.49,high,low,7,namesilo,,,12/08/2026 07:24
 edda84cc-c48c-47e4-b1ce-8bc0c16974bb,paints.yoga,available,26.08,26.08,medium,low,6,spaceship,,,29/09/2026 05:51
 bdcf44b7-923f-439a-ae64-8229ec7fe87f,yeats.yoga,available,25.2,25.2,medium,low,5,cloudflare,,,28/09/2026 15:32
-b0c68335-9484-4687-9a26-66840a458ded,lan.yoga,premium,47.2,47.2,high,low,3,namesilo,,,
+b0c68335-9484-4687-9a26-66840a458ded,lan.yoga,premium,47.2,47.2,high,low,3,namesilo,,,30/09/2026 02:02
 a0299c31-33e6-4b11-897c-74f921ca0b82,expedite.yoga,available,32.49,32.49,high,low,8,namesilo,,,
 869e2542-103b-4b25-8b99-207a631c17e1,impound.yoga,available,33.98,45.98,high,low,7,namecheap,,,12/08/2026 21:04
 39039201-aa21-4ec1-911d-669ca5bda729,mtv.yoga,premium,44,26.97,high,low,3,dynadot,,,28/09/2026 03:45
@@ -853,32 +921,35 @@ b1d4d5ec-f239-4892-bd42-3d0f936d753f,oblate.yoga,available,32.49,32.49,medium,lo
 ec24afb3-11da-49c3-b439-cf717915c7b5,his.yoga,premium,56,35,high,low,3,namecheap,,,
 d214ad6e-317d-4af6-b75d-0475772429d9,wondered.yoga,available,32.49,32.49,high,low,8,namesilo,,,
 dd5cd2f1-ad05-4cca-8f71-325a081a9d4e,radiantly.yoga,available,32.49,32.49,medium,low,9,namesilo,,,15/09/2026 22:18
+4bd0cfd5-4e83-4dbc-a606-75f0c0c27217,waverly.yoga,available,32.49,32.49,medium,low,7,namesilo,,,29/09/2026 10:04
 1b3bbc7c-1f64-4813-8ce4-3c02e4f5364a,walls.yoga,available,33.98,45.98,high,low,5,namecheap,,,25/09/2026 16:16
 7c64b1de-7ad2-4eb0-b207-7ec5c33cb0ca,sandusky.yoga,available,26.08,26.08,medium,low,8,spaceship,,,28/09/2026 22:26
 895d56f4-d2d4-4ed5-a6b4-9555db70cbf5,prevention.yoga,available,32.49,32.49,high,low,10,namesilo,,,08/09/2026 14:09
 80fc8bae-93bd-4363-8eff-bbeb7d15dda8,quran.yoga,available,33.98,45.98,high,medium,5,namecheap,,,18/09/2026 01:05
 3e2154ff-0671-4bc5-825b-99ee22ef059d,posted.yoga,available,32.49,32.49,high,low,6,namesilo,,,09/09/2026 00:21
+07f099d7-c94f-4cf3-b249-a01050d16fba,overheard.yoga,available,26.26,26.26,medium,low,9,porkbun,,,29/09/2026 22:55
 ccda8deb-c78f-4c09-86f8-ac4afde5272a,floppy.yoga,available,32.49,32.49,high,low,6,namesilo,,,18/08/2026 08:51
 f865375f-043b-48e6-8337-14552e6bb3d4,whole.yoga,resell,,,high,low,5,"GoDaddy.com, LLC",26/08/2020 18:51,26/08/2027 18:51,26/09/2026 10:09
 3ce11148-4375-4f35-b33b-119c8c0f4104,paraffin.yoga,available,32.49,32.49,high,low,8,namesilo,,,18/09/2026 08:24
 226e6fd4-313b-4230-badd-a211ba69bc24,untouched.yoga,available,32.49,32.49,high,low,9,namesilo,,,12/09/2026 13:20
 79127ae7-0d2e-484e-912a-3a75a8915b5e,graphite.yoga,available,33.98,45.98,high,low,8,namecheap,,,24/09/2026 01:02
-f5cd3009-eb1d-42bf-93ca-2286753e5060,obliterate.yoga,available,32.49,32.49,medium,low,10,namesilo,,,10/08/2026 15:34
+f5cd3009-eb1d-42bf-93ca-2286753e5060,obliterate.yoga,available,32.49,32.49,high,low,10,namesilo,,,10/08/2026 15:34
 8f306a73-d751-4d38-8e4e-6c7fcb955904,acrolein.yoga,available,32.49,32.49,medium,low,8,namesilo,,,17/09/2026 03:46
 e9fdc156-4bb5-4da2-9cae-cc384ad49fe0,interests.yoga,available,32.49,32.49,high,low,9,namesilo,,,25/09/2026 16:44
-dcd12789-5491-4d27-b9be-31715052cdde,boulder.yoga,premium,96,29.5,medium,low,7,namesilo,,,28/09/2026 13:35
+dcd12789-5491-4d27-b9be-31715052cdde,boulder.yoga,premium,96,29.5,high,low,7,namesilo,,,28/09/2026 13:35
 1800c7ed-d416-4641-9d5a-35572d3a9125,gentile.yoga,available,32.49,32.49,high,low,7,namesilo,,,18/08/2026 21:53
 acafd6b1-cf36-461b-8979-296a7e9eacb8,cleave.yoga,available,32.49,32.49,medium,low,6,namesilo,,,24/09/2026 15:43
 4ef39a20-fadf-4537-8126-735ce91af568,twaddle.yoga,available,32.49,32.49,medium,low,7,namesilo,,,21/09/2026 23:55
 7cda962e-0280-45c5-ade8-ccdb5a5e99ce,pellucid.yoga,available,32.49,32.49,high,low,8,namesilo,,,13/08/2026 09:44
 5dcbfc71-8162-4cec-90d6-513d874a9574,humidity.yoga,available,26.97,26.97,high,low,8,dynadot,,,29/09/2026 01:18
 d2083230-0ddb-4b0d-afbf-5e78fdf12d41,solvable.yoga,available,32.49,32.49,high,low,8,namesilo,,,27/09/2026 12:17
+6db22696-887d-4964-9357-876b51f3dd94,waterfront.yoga,available,26.97,26.97,high,low,10,dynadot,,,30/09/2026 03:05
 7465c77d-7220-4819-ae42-28519215866f,acrophobia.yoga,available,32.49,32.49,medium,low,10,namesilo,,,17/09/2026 03:53
 4d5a2675-39d3-4790-9463-bcc8d709c143,uncharged.yoga,available,32.49,32.49,high,low,9,namesilo,,,12/09/2026 05:06
-f732df03-ffec-4e3e-8524-16fe57577ddd,idiomatic.yoga,available,33.98,45.98,medium,low,9,namecheap,,,21/08/2026 18:07
-d34967d4-887c-40aa-bcd9-d171df0a3d45,expression.yoga,available,32.49,32.49,high,low,10,namesilo,,,
+f732df03-ffec-4e3e-8524-16fe57577ddd,idiomatic.yoga,available,33.98,45.98,high,low,9,namecheap,,,21/08/2026 18:07
+d34967d4-887c-40aa-bcd9-d171df0a3d45,expression.yoga,available,25.2,25.2,high,low,10,cloudflare,,,29/09/2026 18:43
 fe72ed06-e994-4c4c-97a0-858f8cbf0c09,aare.yoga,available,32.49,32.49,high,low,4,namesilo,,,16/09/2026 13:18
-46acdbb8-4821-4033-862b-8409de9083b9,waterford.yoga,available,26.08,26.08,medium,low,9,spaceship,,,27/09/2026 16:17
+46acdbb8-4821-4033-862b-8409de9083b9,waterford.yoga,available,26.08,26.08,high,low,9,spaceship,,,27/09/2026 16:17
 54de6891-ff1f-4004-b0de-1e6497454014,danville.yoga,available,32.49,32.49,medium,low,8,namesilo,,,28/09/2026 04:20
 55be17c7-463d-41d0-81e2-f84538da5509,adopt.yoga,available,32.49,32.49,high,low,5,namesilo,,,28/09/2026 03:18
 5ff1dec8-4b1e-42f0-90a8-c0388e606de6,reflexion.yoga,available,32.49,32.49,high,low,9,namesilo,,,03/09/2026 11:28
@@ -904,6 +975,7 @@ c5c570a5-c4ec-432f-9c96-9eb3571bf8cf,beverly.yoga,available,33.98,45.98,high,low
 a2fe88b7-7edd-4164-8fac-23efd75b23d4,vector.yoga,available,32.49,32.49,high,low,6,namesilo,,,
 9567eade-b68f-4912-9bd2-6421245e6223,tobin.yoga,available,26.08,26.08,high,low,5,spaceship,,,28/09/2026 06:04
 21329e0e-f669-413c-ad0d-ca2dff47556e,stem.yoga,available,32.49,32.49,high,low,4,namesilo,,,18/08/2026 11:29
+f0bd4bb7-403c-47dd-8c8c-562f8e9827b7,astm.yoga,available,26.26,26.26,medium,low,4,porkbun,,,29/09/2026 15:16
 6d511f90-d453-4c8b-89e7-28a2952c43a0,accent.yoga,available,32.49,32.49,high,low,6,namesilo,,,16/09/2026 21:50
 bca97943-1ac2-4a60-b1ef-2294e6891941,revokable.yoga,available,32.49,32.49,medium,low,9,namesilo,,,09/09/2026 16:23
 b64571fd-6422-4ab1-94b9-af846b9424c7,stole.yoga,available,32.49,32.49,high,low,5,namesilo,,,27/09/2026 05:29
@@ -916,10 +988,10 @@ fe077f0a-fab6-4869-8fca-2df37761e434,unrequited.yoga,available,32.49,32.49,mediu
 a8519522-c07a-4145-9d2c-61ca36efe7fc,gnomic.yoga,available,32.49,32.49,medium,low,6,namesilo,,,20/08/2026 15:44
 b07263bc-98eb-4ab5-bf80-5df5b8f71ddc,hookup.yoga,available,32.49,32.49,high,low,7,namesilo,,,
 36d0a11d-dfda-4c95-bf46-04a833d99b54,edified.yoga,available,32.49,32.49,high,low,7,namesilo,,,15/08/2026 09:32
-d8345ca1-8ee6-4fb1-b626-17652bff72be,brits.yoga,available,32.49,32.49,medium,low,5,namesilo,,,11/08/2026 04:46
+d8345ca1-8ee6-4fb1-b626-17652bff72be,brits.yoga,available,32.49,32.49,high,low,5,namesilo,,,11/08/2026 04:46
 9272bcef-dca4-4cc4-af09-064760dc65b0,armory.yoga,available,32.49,32.49,high,low,6,namesilo,,,20/09/2026 07:31
 df0c48fa-26d9-4b16-a0fe-cc075bbba37c,defender.yoga,available,26.08,26.08,high,low,8,spaceship,,,28/09/2026 18:56
-38999c5d-c66b-474b-96ae-fc2b86a696e4,hampstead.yoga,available,26.26,26.26,medium,low,9,porkbun,,,29/09/2026 03:36
+38999c5d-c66b-474b-96ae-fc2b86a696e4,hampstead.yoga,available,26.26,26.26,high,low,9,porkbun,,,29/09/2026 03:36
 27b923cd-e9b1-473e-a0a8-153e0b14a0d0,rudderless.yoga,available,32.49,32.49,medium,low,10,namesilo,,,
 d9287636-b964-4003-bcc1-d70ea3606a51,demotic.yoga,available,32.49,32.49,medium,low,7,namesilo,,,14/08/2026 01:35
 d41b812e-3a50-4ef4-98ac-04c4412e2de4,glucose.yoga,available,33.98,45.98,high,low,7,namecheap,,,29/09/2026 01:05
@@ -927,75 +999,3 @@ d41b812e-3a50-4ef4-98ac-04c4412e2de4,glucose.yoga,available,33.98,45.98,high,low
 518fd5cf-ccca-406f-977c-79a510350f62,fashioned.yoga,available,32.49,32.49,high,low,9,namesilo,,,17/08/2026 23:02
 772bd128-fd1e-4dcd-8350-8152732c93f1,vaccination.yoga,available,32.49,32.49,high,low,11,namesilo,,,
 f55b4cde-11ce-440a-aa4e-1b155e66a4a8,laying.yoga,available,32.49,32.49,high,low,6,namesilo,,,25/09/2026 22:34
-eb115148-ac8a-4f8c-a105-439f96af1eef,sons.yoga,available,33.98,45.98,medium,low,4,namecheap,,,27/09/2026 09:28
-78af51e2-90fb-416d-bb67-4aea3241ef45,goosy.yoga,available,32.49,32.49,medium,low,5,namesilo,,,14/08/2026 16:07
-750f45b6-5737-4271-a124-17a1a4462235,witching.yoga,available,32.49,32.49,high,low,8,namesilo,,,13/09/2026 12:46
-867e279d-08cd-4e31-a571-a87a9b24de37,brazen.yoga,available,32.49,32.49,high,low,6,namesilo,,,11/08/2026 02:54
-769b5589-5485-4bd2-9da6-08ad36853c18,greene.yoga,available,32.49,32.49,high,low,6,namesilo,,,25/09/2026 06:41
-44c5304c-ce6f-4d86-b3f8-9fb81c3f2aa0,betimes.yoga,available,32.49,32.49,medium,low,7,namesilo,,,13/09/2026 23:59
-8d1e5a80-edf3-4b91-b079-55760cd543cf,bach.yoga,available,32.49,32.49,high,low,4,namesilo,,,21/09/2026 14:07
-20176388-e232-46a5-8e8f-15e2758f0046,ics.yoga,premium,41.6,26.08,high,low,3,spaceship,,,28/09/2026 21:49
-4a50ed21-b391-47c3-934a-19322d11ae70,bypass.yoga,available,32.49,32.49,high,low,6,namesilo,,,23/09/2026 07:09
-2f74a001-0a10-408d-90a8-96bddbbf524a,accountancy.yoga,available,32.49,32.49,high,low,11,namesilo,,,
-c476c1c7-5536-4e32-acce-1ad001ac29be,shrine.yoga,available,26.08,26.08,high,low,6,spaceship,,,28/09/2026 10:54
-7f75d48b-f0bf-4227-9ae0-947a26de8bee,carrier.yoga,available,26.08,26.08,high,low,7,spaceship,,,28/09/2026 19:39
-38b1e4dc-94fb-476a-962c-8f36772f4268,carousing.yoga,available,32.49,32.49,medium,low,9,namesilo,,,08/08/2026 04:24
-1a020383-5499-457d-93fd-e2ff972a75a6,aardvark.yoga,available,32.49,32.49,high,low,8,namesilo,,,16/09/2026 13:21
-cb9618e5-8f41-46c8-917e-4d90bba3ebe0,billings.yoga,premium,96,29.5,high,low,8,namesilo,,,23/09/2026 16:32
-d6d322eb-1f2a-4dec-a7ac-8168227728f8,warburg.yoga,available,32.49,32.49,medium,low,7,namesilo,,,16/09/2026 19:40
-e9cdee41-adda-4222-8ec9-4bbeec8f34bb,usb.yoga,premium,47.2,29.5,high,low,3,namesilo,,,28/09/2026 03:21
-da9225e3-32a6-41a2-adfd-97cc5437d57b,device.yoga,available,32.49,32.49,high,low,6,namesilo,,,28/09/2026 04:21
-53ba5b7c-85cb-4409-b97c-3b33e66374eb,hierarchic.yoga,available,32.49,32.49,medium,low,10,namesilo,,,21/08/2026 08:20
-208cc5c9-89b4-4d33-9e7e-6d568aef2687,technical.yoga,available,25.2,25.2,high,low,9,cloudflare,,,28/09/2026 08:48
-22b0b06c-2ba6-4f01-a011-634170692442,bahraini.yoga,available,32.49,32.49,medium,low,8,namesilo,,,08/08/2026 08:36
-6b1a6157-0bf1-4be2-ae43-99e81ddca4ba,assuage.yoga,available,32.49,32.49,high,low,7,namesilo,,,18/08/2026 22:06
-822c14b6-6612-4c34-9039-338f530e5336,omani.yoga,available,32.49,32.49,high,low,5,namesilo,,,04/09/2026 02:24
-6ab766d4-103d-46aa-b339-5a12b5a05f77,wheezing.yoga,available,32.49,32.49,medium,low,8,namesilo,,,07/08/2026 09:25
-a9f8de68-3a44-424d-a39e-9c1ee52bca7d,calico.yoga,available,32.49,32.49,high,low,6,namesilo,,,11/08/2026 14:19
-18eb27e7-eeb2-4394-ad4b-4b1f1cea8795,minimums.yoga,available,32.49,32.49,medium,low,8,namesilo,,,20/09/2026 08:36
-fd25e555-3630-4ff9-b111-01f8eb3b94b7,elderberry.yoga,available,32.49,32.49,medium,low,10,namesilo,,,24/09/2026 00:39
-5d7b27d3-447e-4401-85ee-d156f1d36223,carving.yoga,available,26.08,26.08,high,low,7,spaceship,,,29/09/2026 00:21
-c14d515c-47dc-4504-9b1b-cf10318d8a9b,sisters.yoga,available,32.49,32.49,high,low,7,namesilo,,,
-2076353a-ff83-42d4-bcf7-39817f2b87f8,eros.yoga,available,32.49,32.49,high,low,4,namesilo,,,24/09/2026 17:09
-b1911d7b-3b45-4e2f-94d8-f12d480ed9c2,apophthegm.yoga,available,32.49,32.49,medium,low,10,namesilo,,,19/09/2026 17:11
-cddbf930-e7f6-47b2-b83f-43107745a688,radio.yoga,available,32.49,32.49,high,medium,5,namesilo,,,27/09/2026 09:31
-e62f9def-7fe4-4dd2-90a5-bff3e4cd5934,pasta.yoga,available,26.08,26.08,high,low,5,spaceship,,,28/09/2026 20:26
-52f7a7d4-8345-4344-9c8b-4cbef16863d1,spf.yoga,premium,41.6,26.08,high,low,3,spaceship,,,28/09/2026 05:21
-aa713952-2909-4351-a253-97708d9aed5b,derivative.yoga,available,32.49,32.49,high,low,10,namesilo,,,14/08/2026 03:01
-932a4051-9aa2-4f9e-bf6a-1f9d907ee052,mutant.yoga,available,32.49,32.49,high,low,6,namesilo,,,03/09/2026 11:39
-0416c06a-1fbf-4bfa-ad97-d234de28a475,competitor.yoga,available,33.98,45.98,high,low,10,namecheap,,,29/09/2026 06:18
-5bf68de2-fad4-40bd-a053-51a92643ac20,vilnius.yoga,available,26.08,26.08,medium,low,7,spaceship,,,28/09/2026 18:34
-626e2135-a416-4ef1-a39e-cffc863173e5,swelling.yoga,available,32.49,32.49,high,low,8,namesilo,,,24/09/2026 11:05
-2cb5bd4f-03a5-4d6b-9539-b0098dd6ea23,hanoi.yoga,premium,242,29.5,high,low,5,namesilo,,,
-df46c599-dec4-4282-920c-42de9f3a9e7a,ashen.yoga,available,32.49,32.49,medium,low,5,namesilo,,,07/08/2026 02:09
-6d318082-186b-427b-95d7-e86cac7974bb,magician.yoga,available,32.49,32.49,high,low,8,namesilo,,,24/09/2026 17:20
-faae75e3-4796-460d-9bb2-c69a219782b7,erratum.yoga,available,32.49,32.49,medium,low,7,namesilo,,,24/08/2026 07:21
-346e1932-0ac8-4a93-b9e0-cdc6c1aaaa21,churlish.yoga,available,32.49,32.49,medium,low,8,namesilo,,,12/08/2026 07:49
-ac1dd7f7-5ebe-4895-b201-25715dc424ad,actors.yoga,available,32.49,32.49,medium,low,6,namesilo,,,
-90dfb6a9-b60f-488c-a409-2efe085dfaa2,marvellous.yoga,available,33.98,45.98,high,low,10,namecheap,,,25/09/2026 00:14
-9a549265-ff4d-466c-8a2e-fe4a455a0f52,anosmia.yoga,available,33.98,45.98,medium,low,7,namecheap,,,19/09/2026 11:51
-5c267973-6db5-4cbb-afd7-d2cc342a91fd,confucian.yoga,available,33.98,45.98,high,low,9,namecheap,,,12/08/2026 21:15
-ca08829b-e04f-4b5a-862d-f83ec1678817,osborne.yoga,available,33.98,45.98,high,medium,7,namecheap,,,25/09/2026 08:01
-2fe95ce3-99b8-4f3b-9abf-088f6cd21ab3,brockhouse.yoga,available,32.49,32.49,medium,low,10,namesilo,,,23/09/2026 10:18
-561da459-5669-40dc-80ae-68cb18b8cafb,huntsville.yoga,available,32.49,32.49,high,low,10,namesilo,,,27/09/2026 04:30
-b14e2cbe-317e-46c0-8a7d-9bf9037c0df1,bakunin.yoga,available,33.98,45.98,medium,low,7,namecheap,,,21/09/2026 20:26
-786c0c42-d2fd-4f1b-be09-75b3982fd510,adults.yoga,resell,,,medium,low,6,,,,27/09/2026 09:52
-98e5a30f-b652-466a-9e74-7d7c0d451b8e,ayres.yoga,available,32.49,32.49,medium,low,5,namesilo,,,28/09/2026 12:24
-7d3a0c4c-c4ee-426f-8557-2c7b04025c0f,anabaptist.yoga,available,32.49,32.49,high,low,10,namesilo,,,19/09/2026 00:49
-8147b7d0-8323-4ec3-a2d6-05f0a3c3a867,cloggy.yoga,available,32.49,32.49,medium,low,6,namesilo,,,12/08/2026 11:46
-dd3803b5-8297-4743-8d49-34890e5a0382,gush.yoga,available,32.49,32.49,high,low,4,namesilo,,,22/08/2026 13:07
-f6d57d88-46a7-4c03-a5eb-ab68540de109,prepupal.yoga,available,32.49,32.49,high,medium,8,namesilo,,,09/09/2026 01:41
-2dafd751-b0c7-4498-bf02-5fa092795fbf,puritanic.yoga,available,32.49,32.49,high,medium,9,namesilo,,,09/09/2026 06:20
-757c9231-bc00-4aef-8ff6-a4214578963e,characteristic.yoga,available,45.98,,high,low,14,namecheap,,,
-acf46925-c197-4de8-a0bb-e162039580bd,attained.yoga,available,32.49,32.49,medium,low,8,namesilo,,,07/08/2026 15:07
-3f4f7c83-1f9c-4c5f-97e0-8db139322fb6,alligator.yoga,available,32.49,32.49,high,low,9,namesilo,,,28/09/2026 20:35
-6cc0f132-66f3-4179-8f2c-0a091a6756f3,occident.yoga,available,32.49,32.49,medium,low,8,namesilo,,,13/09/2026 10:49
-c2a66e56-8802-484d-a7e2-f8bdd678cc96,lenses.yoga,available,32.49,32.49,medium,low,6,namesilo,,,29/09/2026 05:38
-0e7a8a88-5885-4d61-a15a-001af95b5df7,broadsheet.yoga,available,32.49,32.49,high,low,10,namesilo,,,11/08/2026 05:08
-091981bb-a69a-4f0c-83c2-be9d6b247ded,raised.yoga,available,32.49,32.49,high,low,6,namesilo,,,23/09/2026 09:46
-1e31345f-c9f2-4bcf-9c4a-11e3f31f81ba,isomorphic.yoga,available,32.49,32.49,high,low,10,namesilo,,,22/08/2026 11:12
-0b7ee4fc-891d-4676-ace6-0767b78d2f39,adverse.yoga,available,32.49,32.49,medium,low,7,namesilo,,,
-4853ac51-693f-4d92-bc3a-bf44da51139c,antihero.yoga,available,33.98,45.98,medium,low,8,namecheap,,,19/09/2026 14:35
-03d0c675-c499-412e-83ad-e196b91899d8,consuming.yoga,available,33.98,45.98,high,low,9,namecheap,,,23/09/2026 21:22
-16f0a493-1a23-437a-8219-e8d38f23ba90,vitalizer.yoga,available,32.49,32.49,high,low,9,namesilo,,,19/09/2026 09:10
-693552e2-6ec3-43db-9034-f3d3efea9fcd,holmes.yoga,available,33.98,45.98,high,low,6,namecheap,,,20/09/2026 10:51
